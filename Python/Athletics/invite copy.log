@@ -1,0 +1,2589 @@
+INFO - root - -- Completed navigate to player page --
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - Clicked the country menu button
+INFO - root - Clicked the all countries button
+INFO - root - LVL BUTTON: ALL
+INFO - root - Clicked the lvl button
+INFO - root - Clicked the all levels button
+INFO - root - Click the 'search players' button
+INFO - root - -- Completed search all --
+INFO - root - Deleting all_invitables[0] (HOME)
+INFO - root - Number of invitables: 0
+INFO - root - -- Completed invite all on page --
+INFO - root - Setting min level to 31
+INFO - root - Setting max_level to 35
+INFO - root - Setting min level to 31
+INFO - root - Setting max_level to 35
+INFO - root - Setting level limit to 36
+INFO - root - min_max: 31_35
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - Returning xpath for 31_35 : //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[2]/div[2]/div/div[2]/div/div[4]/div/div/div[8]
+INFO - root - xpath returned: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[2]/div[2]/div/div[2]/div/div[4]/div/div/div[8]
+INFO - root - age button: <selenium.webdriver.remote.webelement.WebElement (session="7c89ac1b5943007359ad43f3b470496b", element="4a2abd5a-f021-46b2-b044-b8fcb4abf53b")>
+INFO - root - Clicked the age button (31_35)
+INFO - root - Clicked the'search players'button
+INFO - root - -- Completed search_age 31_35 --
+INFO - root - Deleting all_invitables[0] (HOME)
+INFO - root - Number of invitables: 1
+INFO - root - Clicking item - INVITE - <selenium.webdriver.remote.webelement.WebElement (session="7c89ac1b5943007359ad43f3b470496b", element="bb5f1f8c-3dce-425b-bf6f-ea9493f9e6e6")>
+INFO - root - -- Completed invite all on page --
+INFO - root - Total invited people: 1
+INFO - root - Minimum Level: 31
+INFO - root - Starting to invite countries
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - Clicked the age button
+INFO - root - Entering country loop
+INFO - root - country id: 2, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[2]
+INFO - root - Clicked the country menu button
+INFO - root - Country: AFGHANISTAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in AFGHANISTAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 3, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[3]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ALBANIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ALBANIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 4, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[4]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ALGERIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ALGERIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 5, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[5]
+INFO - root - Clicked the country menu button
+INFO - root - Country: AMERICAN SAMOA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in AMERICAN SAMOA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 6, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[6]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ANDORRA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ANDORRA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 7, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[7]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ANGOLA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ANGOLA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 8, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[8]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ANGUILLA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ANGUILLA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 9, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[9]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ANTIGUA AND BARBUDA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ANTIGUA AND BARBUDA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 10, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[10]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ARGENTINA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in ARGENTINA: 2
+INFO - root - Starting to invite selected people on page (ARGENTINA)
+INFO - root - Num players on page: 4
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 1
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 11, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[11]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ARMENIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ARMENIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 12, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[12]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ARUBA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ARUBA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 13, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[13]
+INFO - root - Clicked the country menu button
+INFO - root - Country: AUSTRALIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in AUSTRALIA: 10
+INFO - root - Starting to invite selected people on page (AUSTRALIA)
+INFO - root - Num players on page: 18
+INFO - root - Inviting Phil Swift, Level: 38, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Matty parker74, Level: 31, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 3
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 14, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[14]
+INFO - root - Clicked the country menu button
+INFO - root - Country: AUSTRIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in AUSTRIA: 5
+INFO - root - Starting to invite selected people on page (AUSTRIA)
+INFO - root - Num players on page: 8
+INFO - root - Inviting McGrath, Level: 42, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Thomas Brötzner, Level: 32, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 5
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 15, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[15]
+INFO - root - Clicked the country menu button
+INFO - root - Country: AZERBAIJAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in AZERBAIJAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 16, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[16]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BAHAMAS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BAHAMAS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 17, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[17]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BAHRAIN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BAHRAIN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 18, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[18]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BANGLADESH
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BANGLADESH
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 19, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[19]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BARBADOS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BARBADOS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 20, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[20]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BELARUS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in BELARUS: 7
+INFO - root - Starting to invite selected people on page (BELARUS)
+INFO - root - Num players on page: 9
+INFO - root - Inviting Artem Kolbyko, Level: 33, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 6
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 21, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[21]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BELGIUM
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in BELGIUM: 8
+INFO - root - Starting to invite selected people on page (BELGIUM)
+INFO - root - Num players on page: 17
+INFO - root - Inviting Lennerd Rysermans, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Mikael De Wit, Level: 31, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 8
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 22, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[22]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BELIZE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BELIZE
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 23, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[23]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BENIN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BENIN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 24, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[24]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BERMUDA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BERMUDA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 25, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[25]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BHUTAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BHUTAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 26, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[26]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BOLIVIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BOLIVIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 27, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[27]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BOSNIA AND HERZEGOVINA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BOSNIA AND HERZEGOVINA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 28, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[28]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BOTSWANA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BOTSWANA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 29, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[29]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BRAZIL
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in BRAZIL: 8
+INFO - root - Starting to invite selected people on page (BRAZIL)
+INFO - root - Num players on page: 11
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 8
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 30, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[30]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BRUNEI
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BRUNEI
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 31, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[31]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BULGARIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BULGARIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 32, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[32]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BURKINA FASO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BURKINA FASO
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 33, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[33]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BURMA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BURMA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 34, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[34]
+INFO - root - Clicked the country menu button
+INFO - root - Country: BURUNDI
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in BURUNDI
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 35, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[35]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CAMBODIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in CAMBODIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 36, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[36]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CAMEROON
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in CAMEROON
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 37, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[37]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CANADA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in CANADA: 8
+INFO - root - Starting to invite selected people on page (CANADA)
+INFO - root - Num players on page: 14
+INFO - root - Inviting Yo Mamasugly, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 9
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 38, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[38]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CAPE VERDE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in CAPE VERDE
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 39, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[39]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CAYMAN ISLANDS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in CAYMAN ISLANDS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 40, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[40]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CENTRAL AFRICAN REPUBLIC
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in CENTRAL AFRICAN REPUBLIC
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 41, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[41]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CHAD
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in CHAD
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 42, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[42]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CHILE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in CHILE: 4
+INFO - root - Starting to invite selected people on page (CHILE)
+INFO - root - Num players on page: 4
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 9
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 43, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[43]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CHINA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in CHINA: 2
+INFO - root - Starting to invite selected people on page (CHINA)
+INFO - root - Num players on page: 2
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 9
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 44, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[44]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CHINESE TAIPEI
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in CHINESE TAIPEI: 8
+INFO - root - Starting to invite selected people on page (CHINESE TAIPEI)
+INFO - root - Num players on page: 10
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 9
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 45, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[45]
+INFO - root - Clicked the country menu button
+INFO - root - Country: COCOS (KEELING) ISLANDS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in COCOS (KEELING) ISLANDS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 46, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[46]
+INFO - root - Clicked the country menu button
+INFO - root - Country: COLOMBIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in COLOMBIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 47, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[47]
+INFO - root - Clicked the country menu button
+INFO - root - Country: COMOROS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in COMOROS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 48, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[48]
+INFO - root - Clicked the country menu button
+INFO - root - Country: COOK ISLANDS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in COOK ISLANDS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 49, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[49]
+INFO - root - Clicked the country menu button
+INFO - root - Country: COSTA RICA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in COSTA RICA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 50, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[50]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CROATIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in CROATIA: 2
+INFO - root - Starting to invite selected people on page (CROATIA)
+INFO - root - Num players on page: 6
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 9
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 51, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[51]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CUBA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in CUBA: 2
+INFO - root - Starting to invite selected people on page (CUBA)
+INFO - root - Num players on page: 3
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 9
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 52, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[52]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CYPRUS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in CYPRUS: 3
+INFO - root - Starting to invite selected people on page (CYPRUS)
+INFO - root - Num players on page: 5
+INFO - root - Inviting Sam saviola, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 10
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 53, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[53]
+INFO - root - Clicked the country menu button
+INFO - root - Country: CZECH REPUBLIC
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in CZECH REPUBLIC: 8
+INFO - root - Starting to invite selected people on page (CZECH REPUBLIC)
+INFO - root - Num players on page: 50
+INFO - root - Inviting Ondra Pavelka, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Tonda Holec, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Krocan87, Level: 32, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 14
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 54, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[54]
+INFO - root - Clicked the country menu button
+INFO - root - Country: DEMOCRATIC REPUBLIC OF THE CONGO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in DEMOCRATIC REPUBLIC OF THE CONGO
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 55, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[55]
+INFO - root - Clicked the country menu button
+INFO - root - Country: DENMARK
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in DENMARK: 3
+INFO - root - Starting to invite selected people on page (DENMARK)
+INFO - root - Num players on page: 4
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 14
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 56, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[56]
+INFO - root - Clicked the country menu button
+INFO - root - Country: DJIBOUTI
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in DJIBOUTI
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 57, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[57]
+INFO - root - Clicked the country menu button
+INFO - root - Country: DOMINICA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in DOMINICA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 58, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[58]
+INFO - root - Clicked the country menu button
+INFO - root - Country: DOMINICAN REPUBLIC
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in DOMINICAN REPUBLIC
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 59, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[59]
+INFO - root - Clicked the country menu button
+INFO - root - Country: EAST TIMOR
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in EAST TIMOR
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 60, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[60]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ECUADOR
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ECUADOR
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 61, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[61]
+INFO - root - Clicked the country menu button
+INFO - root - Country: EGYPT
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in EGYPT: 7
+INFO - root - Starting to invite selected people on page (EGYPT)
+INFO - root - Num players on page: 7
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 14
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 62, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[62]
+INFO - root - Clicked the country menu button
+INFO - root - Country: EL SALVADOR
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in EL SALVADOR
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 63, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[63]
+INFO - root - Clicked the country menu button
+INFO - root - Country: EQUATORIAL GUINEA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in EQUATORIAL GUINEA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 64, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[64]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ERITREA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ERITREA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 65, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[65]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ESTONIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in ESTONIA: 3
+INFO - root - Starting to invite selected people on page (ESTONIA)
+INFO - root - Num players on page: 10
+INFO - root - Inviting Lembit Ilv, Level: 36, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 15
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 66, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[66]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ETHIOPIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ETHIOPIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 67, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[67]
+INFO - root - Clicked the country menu button
+INFO - root - Country: FALKLAND ISLANDS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in FALKLAND ISLANDS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 68, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[68]
+INFO - root - Clicked the country menu button
+INFO - root - Country: FAROE ISLANDS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in FAROE ISLANDS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 69, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[69]
+INFO - root - Clicked the country menu button
+INFO - root - Country: FEDERATED STATES OF MICRONESIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in FEDERATED STATES OF MICRONESIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 70, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[70]
+INFO - root - Clicked the country menu button
+INFO - root - Country: FIJI
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in FIJI
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 71, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[71]
+INFO - root - Clicked the country menu button
+INFO - root - Country: FINLAND
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in FINLAND: 11
+INFO - root - Starting to invite selected people on page (FINLAND)
+INFO - root - Num players on page: 24
+INFO - root - Inviting Olli Nurminen, Level: 38, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Pasi Vornanen, Level: 31, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 17
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 72, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[72]
+INFO - root - Clicked the country menu button
+INFO - root - Country: FRANCE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in FRANCE: 8
+INFO - root - Starting to invite selected people on page (FRANCE)
+INFO - root - Num players on page: 50
+INFO - root - Inviting Dadid, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Bastien JEAN DUMONTEAUX, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Kevkev87, Level: 42, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Nicolas Breant, Level: 41, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Nonok2669, Level: 40, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Mickael Lourdel, Level: 38, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Gary Mesquita, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Jim Castle, Level: 36, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 25
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 73, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[73]
+INFO - root - Clicked the country menu button
+INFO - root - Country: FRENCH GUIANA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in FRENCH GUIANA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 74, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[74]
+INFO - root - Clicked the country menu button
+INFO - root - Country: FRENCH POLYNESIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in FRENCH POLYNESIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 75, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[75]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GABON
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GABON
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 76, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[76]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GAMBIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GAMBIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 77, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[77]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GEORGIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GEORGIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 78, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[78]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GERMANY
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in GERMANY: 14
+INFO - root - Starting to invite selected people on page (GERMANY)
+INFO - root - Num players on page: 50
+INFO - root - Inviting Rudi Maier, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Marc Lepschies, Level: 42, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Lanzelot, Level: 41, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Kilian Schrod, Level: 41, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting AMG Turboschnecke, Level: 41, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Ernst Schall, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Sven Dehnrich, Level: 32, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting AMG Karlheinz Hirsch, Level: 32, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Moritz Schröder, Level: 31, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Zero Tollerance, Level: 31, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 35
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 79, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[79]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GHANA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GHANA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 80, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[80]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GIBRALTAR
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GIBRALTAR
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 81, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[81]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GREECE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in GREECE: 11
+INFO - root - Starting to invite selected people on page (GREECE)
+INFO - root - Num players on page: 29
+INFO - root - Inviting No1TEACHER, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Domouzakis Asterios, Level: 41, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting YFA, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 38
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 82, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[82]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GREENLAND
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GREENLAND
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 83, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[83]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GRENADA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GRENADA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 84, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[84]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GUADELOUPE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GUADELOUPE
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 85, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[85]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GUAM
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GUAM
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 86, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[86]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GUATEMALA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GUATEMALA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 87, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[87]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GUERNSEY
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GUERNSEY
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 88, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[88]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GUINEA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GUINEA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 89, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[89]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GUINEA-BISSAU
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GUINEA-BISSAU
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 90, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[90]
+INFO - root - Clicked the country menu button
+INFO - root - Country: GUYANA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in GUYANA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 91, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[91]
+INFO - root - Clicked the country menu button
+INFO - root - Country: HAITI
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in HAITI
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 92, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[92]
+INFO - root - Clicked the country menu button
+INFO - root - Country: HONDURAS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in HONDURAS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 93, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[93]
+INFO - root - Clicked the country menu button
+INFO - root - Country: HUNGARY
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in HUNGARY: 11
+INFO - root - Starting to invite selected people on page (HUNGARY)
+INFO - root - Num players on page: 22
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 38
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 94, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[94]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ICELAND
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ICELAND
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 95, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[95]
+INFO - root - Clicked the country menu button
+INFO - root - Country: INDIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in INDIA: 25
+INFO - root - Starting to invite selected people on page (INDIA)
+INFO - root - Num players on page: 25
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 38
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 96, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[96]
+INFO - root - Clicked the country menu button
+INFO - root - Country: INDONESIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in INDONESIA: 3
+INFO - root - Starting to invite selected people on page (INDONESIA)
+INFO - root - Num players on page: 3
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 38
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 97, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[97]
+INFO - root - Clicked the country menu button
+INFO - root - Country: IRAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in IRAN: 2
+INFO - root - Starting to invite selected people on page (IRAN)
+INFO - root - Num players on page: 2
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 38
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 98, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[98]
+INFO - root - Clicked the country menu button
+INFO - root - Country: IRAQ
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in IRAQ: 2
+INFO - root - Starting to invite selected people on page (IRAQ)
+INFO - root - Num players on page: 2
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 38
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 99, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[99]
+INFO - root - Clicked the country menu button
+INFO - root - Country: IRELAND
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in IRELAND: 3
+INFO - root - Starting to invite selected people on page (IRELAND)
+INFO - root - Num players on page: 8
+INFO - root - Inviting Luka Blum, Level: 41, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 39
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 100, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[100]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ISLE OF MAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ISLE OF MAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 101, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[101]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ISRAEL
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in ISRAEL: 2
+INFO - root - Starting to invite selected people on page (ISRAEL)
+INFO - root - Num players on page: 3
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 39
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 102, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[102]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ITALY
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in ITALY: 17
+INFO - root - Starting to invite selected people on page (ITALY)
+INFO - root - Num players on page: 50
+INFO - root - Inviting Tony Montana II, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Jacopo Campiutti, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Nick84, Level: 42, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Costantino Franco, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Leonardo Federicoo, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Stukka, Level: 36, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Emilio Oliva, Level: 33, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting PISANO, Level: 33, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Carda Momo, Level: 33, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting DJTT99, Level: 31, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 49
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 103, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[103]
+INFO - root - Clicked the country menu button
+INFO - root - Country: IVORY COAST
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in IVORY COAST
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 104, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[104]
+INFO - root - Clicked the country menu button
+INFO - root - Country: JAMAICA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in JAMAICA: 4
+INFO - root - Starting to invite selected people on page (JAMAICA)
+INFO - root - Num players on page: 7
+INFO - root - Inviting DSTCool, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 50
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 105, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[105]
+INFO - root - Clicked the country menu button
+INFO - root - Country: JAPAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in JAPAN: 5
+INFO - root - Starting to invite selected people on page (JAPAN)
+INFO - root - Num players on page: 5
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 50
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 106, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[106]
+INFO - root - Clicked the country menu button
+INFO - root - Country: JERSEY
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in JERSEY
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 107, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[107]
+INFO - root - Clicked the country menu button
+INFO - root - Country: JORDAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in JORDAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 108, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[108]
+INFO - root - Clicked the country menu button
+INFO - root - Country: KAZAKHSTAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in KAZAKHSTAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 109, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[109]
+INFO - root - Clicked the country menu button
+INFO - root - Country: KENYA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in KENYA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 110, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[110]
+INFO - root - Clicked the country menu button
+INFO - root - Country: KIRIBATI
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in KIRIBATI
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 111, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[111]
+INFO - root - Clicked the country menu button
+INFO - root - Country: KUWAIT
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in KUWAIT: 4
+INFO - root - Starting to invite selected people on page (KUWAIT)
+INFO - root - Num players on page: 4
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 50
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 112, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[112]
+INFO - root - Clicked the country menu button
+INFO - root - Country: KYRGYZSTAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in KYRGYZSTAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 113, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[113]
+INFO - root - Clicked the country menu button
+INFO - root - Country: LAOS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in LAOS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 114, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[114]
+INFO - root - Clicked the country menu button
+INFO - root - Country: LATVIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in LATVIA: 2
+INFO - root - Starting to invite selected people on page (LATVIA)
+INFO - root - Num players on page: 4
+INFO - root - Inviting Filips Larins, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 51
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 115, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[115]
+INFO - root - Clicked the country menu button
+INFO - root - Country: LEBANON
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in LEBANON
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 116, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[116]
+INFO - root - Clicked the country menu button
+INFO - root - Country: LESOTHO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in LESOTHO
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 117, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[117]
+INFO - root - Clicked the country menu button
+INFO - root - Country: LIBERIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in LIBERIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 118, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[118]
+INFO - root - Clicked the country menu button
+INFO - root - Country: LIBYA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in LIBYA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 119, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[119]
+INFO - root - Clicked the country menu button
+INFO - root - Country: LIECHTENSTEIN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in LIECHTENSTEIN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 120, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[120]
+INFO - root - Clicked the country menu button
+INFO - root - Country: LITHUANIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in LITHUANIA: 3
+INFO - root - Starting to invite selected people on page (LITHUANIA)
+INFO - root - Num players on page: 5
+INFO - root - Inviting Ponasxxxl, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 52
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 121, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[121]
+INFO - root - Clicked the country menu button
+INFO - root - Country: LUXEMBOURG
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in LUXEMBOURG
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 122, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[122]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MADAGASCAR
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MADAGASCAR
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 123, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[123]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MALAWI
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MALAWI
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 124, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[124]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MALAYSIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in MALAYSIA: 16
+INFO - root - Starting to invite selected people on page (MALAYSIA)
+INFO - root - Num players on page: 24
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 52
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 125, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[125]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MALDIVES
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MALDIVES
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 126, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[126]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MALI
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MALI
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 127, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[127]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MALTA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MALTA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 128, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[128]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MARSHALL ISLANDS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MARSHALL ISLANDS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 129, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[129]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MARTINIQUE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MARTINIQUE
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 130, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[130]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MAURITANIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MAURITANIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 131, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[131]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MAURITIUS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MAURITIUS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 132, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[132]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MEXICO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in MEXICO: 2
+INFO - root - Starting to invite selected people on page (MEXICO)
+INFO - root - Num players on page: 3
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 52
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 133, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[133]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MOLDOVA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MOLDOVA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 134, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[134]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MONACO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MONACO
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 135, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[135]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MONGOLIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MONGOLIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 136, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[136]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MONTENEGRO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MONTENEGRO
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 137, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[137]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MONTSERRAT
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MONTSERRAT
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 138, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[138]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MOROCCO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MOROCCO
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 139, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[139]
+INFO - root - Clicked the country menu button
+INFO - root - Country: MOZAMBIQUE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in MOZAMBIQUE
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 140, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[140]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NAMIBIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in NAMIBIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 141, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[141]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NAURU
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in NAURU
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 142, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[142]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NEPAL
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in NEPAL
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 143, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[143]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NETHERLANDS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in NETHERLANDS: 11
+INFO - root - Starting to invite selected people on page (NETHERLANDS)
+INFO - root - Num players on page: 25
+INFO - root - Inviting Neeltje Jans, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Anastacia de Jong, Level: 41, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Speedy Jansen, Level: 41, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Elber Galinda, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 56
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 144, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[144]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NETHERLANDS ANTILLES
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in NETHERLANDS ANTILLES
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 145, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[145]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NEW CALEDONIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in NEW CALEDONIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 146, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[146]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NEW ZEALAND
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in NEW ZEALAND: 2
+INFO - root - Starting to invite selected people on page (NEW ZEALAND)
+INFO - root - Num players on page: 3
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 56
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 147, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[147]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NICARAGUA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in NICARAGUA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 148, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[148]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NIGER
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in NIGER
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 149, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[149]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NIGERIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in NIGERIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 150, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[150]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NORTH KOREA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in NORTH KOREA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 151, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[151]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NORTH MACEDONIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in NORTH MACEDONIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 152, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[152]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NORTHERN MARIANA ISLANDS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in NORTHERN MARIANA ISLANDS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 153, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[153]
+INFO - root - Clicked the country menu button
+INFO - root - Country: NORWAY
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in NORWAY: 6
+INFO - root - Starting to invite selected people on page (NORWAY)
+INFO - root - Num players on page: 12
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 56
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 154, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[154]
+INFO - root - Clicked the country menu button
+INFO - root - Country: OMAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in OMAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 155, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[155]
+INFO - root - Clicked the country menu button
+INFO - root - Country: OTHER WORLD
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in OTHER WORLD
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 156, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[156]
+INFO - root - Clicked the country menu button
+INFO - root - Country: PAKISTAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in PAKISTAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 157, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[157]
+INFO - root - Clicked the country menu button
+INFO - root - Country: PALAU
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in PALAU
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 158, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[158]
+INFO - root - Clicked the country menu button
+INFO - root - Country: PALESTINE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in PALESTINE
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 159, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[159]
+INFO - root - Clicked the country menu button
+INFO - root - Country: PANAMA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in PANAMA: 2
+INFO - root - Starting to invite selected people on page (PANAMA)
+INFO - root - Num players on page: 2
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 56
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 160, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[160]
+INFO - root - Clicked the country menu button
+INFO - root - Country: PAPUA NEW GUINEA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in PAPUA NEW GUINEA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 161, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[161]
+INFO - root - Clicked the country menu button
+INFO - root - Country: PARAGUAY
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in PARAGUAY
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 162, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[162]
+INFO - root - Clicked the country menu button
+INFO - root - Country: PERU
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in PERU
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 163, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[163]
+INFO - root - Clicked the country menu button
+INFO - root - Country: PHILIPPINES
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in PHILIPPINES
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 164, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[164]
+INFO - root - Clicked the country menu button
+INFO - root - Country: PITCAIRN ISLANDS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in PITCAIRN ISLANDS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 165, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[165]
+INFO - root - Clicked the country menu button
+INFO - root - Country: POLAND
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in POLAND: 6
+INFO - root - Starting to invite selected people on page (POLAND)
+INFO - root - Num players on page: 50
+INFO - root - Inviting Jarooo84, Level: 47, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Dzikussss, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Maks Wilk, Level: 42, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Olaf Brykowski, Level: 42, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 62
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 166, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[166]
+INFO - root - Clicked the country menu button
+INFO - root - Country: PORTUGAL
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in PORTUGAL: 9
+INFO - root - Starting to invite selected people on page (PORTUGAL)
+INFO - root - Num players on page: 16
+INFO - root - Inviting Bruno de Carvalho, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Kardhu, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 64
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 167, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[167]
+INFO - root - Clicked the country menu button
+INFO - root - Country: PUERTO RICO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in PUERTO RICO
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 168, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[168]
+INFO - root - Clicked the country menu button
+INFO - root - Country: QATAR
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in QATAR
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 169, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[169]
+INFO - root - Clicked the country menu button
+INFO - root - Country: REPUBLIC OF THE CONGO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in REPUBLIC OF THE CONGO
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 170, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[170]
+INFO - root - Clicked the country menu button
+INFO - root - Country: RÉUNION
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in RÉUNION
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 171, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[171]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ROMANIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ROMANIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 172, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[172]
+INFO - root - Clicked the country menu button
+INFO - root - Country: RUSSIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in RUSSIA: 25
+INFO - root - Starting to invite selected people on page (RUSSIA)
+INFO - root - Num players on page: 40
+INFO - root - Inviting Gennadiy Oseev, Level: 31, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 65
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 173, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[173]
+INFO - root - Clicked the country menu button
+INFO - root - Country: RWANDA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in RWANDA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 174, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[174]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SAINT HELENA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SAINT HELENA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 175, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[175]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SAINT KITTS AND NEVIS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SAINT KITTS AND NEVIS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 176, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[176]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SAINT LUCIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SAINT LUCIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 177, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[177]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SAINT PIERRE AND MIQUELON
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SAINT PIERRE AND MIQUELON
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 178, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[178]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SAINT VINCENT AND THE GRENADINES
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SAINT VINCENT AND THE GRENADINES
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 179, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[179]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SAMOA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SAMOA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 180, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[180]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SAN MARINO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SAN MARINO
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 181, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[181]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SÃO TOMÉ AND PRÍNCIPE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SÃO TOMÉ AND PRÍNCIPE
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 182, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[182]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SAUDI ARABIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in SAUDI ARABIA: 2
+INFO - root - Starting to invite selected people on page (SAUDI ARABIA)
+INFO - root - Num players on page: 3
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 65
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 183, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[183]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SENEGAL
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SENEGAL
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 184, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[184]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SERBIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in SERBIA: 4
+INFO - root - Starting to invite selected people on page (SERBIA)
+INFO - root - Num players on page: 10
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 65
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 185, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[185]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SEYCHELLES
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SEYCHELLES
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 186, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[186]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SIERRA LEONE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SIERRA LEONE
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 187, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[187]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SINGAPORE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SINGAPORE
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 188, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[188]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SLOVAKIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in SLOVAKIA: 14
+INFO - root - Starting to invite selected people on page (SLOVAKIA)
+INFO - root - Num players on page: 28
+INFO - root - Inviting Henrik Dividenko, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Ivan Gasparik, Level: 36, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 67
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 189, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[189]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SLOVENIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in SLOVENIA: 6
+INFO - root - Starting to invite selected people on page (SLOVENIA)
+INFO - root - Num players on page: 12
+INFO - root - Inviting metcool, Level: 37, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 68
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 190, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[190]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SOLOMON ISLANDS
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SOLOMON ISLANDS
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 191, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[191]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SOMALIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SOMALIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 192, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[192]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SOUTH AFRICA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in SOUTH AFRICA: 15
+INFO - root - Starting to invite selected people on page (SOUTH AFRICA)
+INFO - root - Num players on page: 19
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 68
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 193, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[193]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SOUTH KOREA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SOUTH KOREA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 194, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[194]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SPAIN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in SPAIN: 17
+INFO - root - Starting to invite selected people on page (SPAIN)
+INFO - root - Num players on page: 50
+INFO - root - Inviting Juan David, Level: 42, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Amunike, Level: 42, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Serenseo, Level: 41, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 71
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 195, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[195]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SRI LANKA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SRI LANKA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 196, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[196]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SUDAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SUDAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 197, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[197]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SURINAME
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SURINAME
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 198, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[198]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SWAZILAND
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SWAZILAND
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 199, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[199]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SWEDEN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in SWEDEN: 13
+INFO - root - Starting to invite selected people on page (SWEDEN)
+INFO - root - Num players on page: 42
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 71
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 200, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[200]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SWITZERLAND
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in SWITZERLAND: 9
+INFO - root - Starting to invite selected people on page (SWITZERLAND)
+INFO - root - Num players on page: 21
+INFO - root - Inviting Fiona Gahli, Level: 33, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Dominik Schweizer, Level: 33, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 73
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 201, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[201]
+INFO - root - Clicked the country menu button
+INFO - root - Country: SYRIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in SYRIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 202, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[202]
+INFO - root - Clicked the country menu button
+INFO - root - Country: TAJIKISTAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in TAJIKISTAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 203, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[203]
+INFO - root - Clicked the country menu button
+INFO - root - Country: TANZANIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in TANZANIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 204, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[204]
+INFO - root - Clicked the country menu button
+INFO - root - Country: THAILAND
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in THAILAND: 9
+INFO - root - Starting to invite selected people on page (THAILAND)
+INFO - root - Num players on page: 11
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 73
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 205, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[205]
+INFO - root - Clicked the country menu button
+INFO - root - Country: TOGO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in TOGO
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 206, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[206]
+INFO - root - Clicked the country menu button
+INFO - root - Country: TONGA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in TONGA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 207, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[207]
+INFO - root - Clicked the country menu button
+INFO - root - Country: TRINIDAD AND TOBAGO
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in TRINIDAD AND TOBAGO: 2
+INFO - root - Starting to invite selected people on page (TRINIDAD AND TOBAGO)
+INFO - root - Num players on page: 2
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 73
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 208, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[208]
+INFO - root - Clicked the country menu button
+INFO - root - Country: TUNISIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in TUNISIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 209, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[209]
+INFO - root - Clicked the country menu button
+INFO - root - Country: TURKEY
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in TURKEY: 3
+INFO - root - Starting to invite selected people on page (TURKEY)
+INFO - root - Num players on page: 6
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 73
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 210, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[210]
+INFO - root - Clicked the country menu button
+INFO - root - Country: TURKMENISTAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in TURKMENISTAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 211, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[211]
+INFO - root - Clicked the country menu button
+INFO - root - Country: TUVALU
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in TUVALU
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 212, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[212]
+INFO - root - Clicked the country menu button
+INFO - root - Country: UGANDA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in UGANDA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 213, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[213]
+INFO - root - Clicked the country menu button
+INFO - root - Country: UKRAINE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in UKRAINE: 6
+INFO - root - Starting to invite selected people on page (UKRAINE)
+INFO - root - Num players on page: 11
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 73
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 214, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[214]
+INFO - root - Clicked the country menu button
+INFO - root - Country: UNITED ARAB EMIRATES
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in UNITED ARAB EMIRATES
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 215, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[215]
+INFO - root - Clicked the country menu button
+INFO - root - Country: UNITED KINGDOM
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in UNITED KINGDOM: 19
+INFO - root - Starting to invite selected people on page (UNITED KINGDOM)
+INFO - root - Num players on page: 50
+INFO - root - Inviting Jabrim, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Lee Ferrance, Level: 46, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Neil Super Smith, Level: 38, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Ritchie Jacobson, Level: 33, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Inviting Inmashed, Level: 31, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 78
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 216, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[216]
+INFO - root - Clicked the country menu button
+INFO - root - Country: UNITED STATES OF AMERICA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in UNITED STATES OF AMERICA: 31
+INFO - root - Starting to invite selected people on page (UNITED STATES OF AMERICA)
+INFO - root - Num players on page: 50
+INFO - root - Inviting Luck E Weisel, Level: 31, Invite: INVITE
+INFO - root - Clicked the invite button
+INFO - root - Clicked the confirm button
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 79
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 217, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[217]
+INFO - root - Clicked the country menu button
+INFO - root - Country: URUGUAY
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Number of invitables in URUGUAY: 2
+INFO - root - Starting to invite selected people on page (URUGUAY)
+INFO - root - Num players on page: 2
+INFO - root - Done inviting selected people on page
+INFO - root - -- Completed invite selected people on page --
+INFO - root - Total invited people: 79
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 218, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[218]
+INFO - root - Clicked the country menu button
+INFO - root - Country: UZBEKISTAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in UZBEKISTAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 219, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[219]
+INFO - root - Clicked the country menu button
+INFO - root - Country: VANUATU
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in VANUATU
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 220, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[220]
+INFO - root - Clicked the country menu button
+INFO - root - Country: VATICAN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in VATICAN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 221, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[221]
+INFO - root - Clicked the country menu button
+INFO - root - Country: VENEZUELA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in VENEZUELA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 222, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[222]
+INFO - root - Clicked the country menu button
+INFO - root - Country: VIETNAM
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in VIETNAM
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 223, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[223]
+INFO - root - Clicked the country menu button
+INFO - root - Country: WESTERN SAHARA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in WESTERN SAHARA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 224, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[224]
+INFO - root - Clicked the country menu button
+INFO - root - Country: YEMEN
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in YEMEN
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 225, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[225]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ZAMBIA
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ZAMBIA
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - country id: 226, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[226]
+INFO - root - Clicked the country menu button
+INFO - root - Country: ZIMBABWE
+INFO - root - Clicked the country button
+INFO - root - Clicked the'search players'button
+INFO - root - Couldnt find any invitables in ZIMBABWE
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - Total invited people: 79
+INFO - root - Done, quitting driver

@@ -1,0 +1,42 @@
+INFO - root - -- Completed navigate to player page --
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - Clicked the age button
+INFO - root - Click the 'search players' button
+INFO - root - -- Completed search all --
+INFO - root - Deleting all_invitables[0] (HOME)
+INFO - root - Number of invitables: 0
+INFO - root - -- Completed invite all on page --
+INFO - root - Setting min level to 31
+INFO - root - Setting max_level to 35
+INFO - root - Setting min level to 26
+INFO - root - Setting max_level to 30
+INFO - root - Setting level limit to 30
+INFO - root - min_max: 26_30
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - Returning xpath for 26_30 : //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[2]/div[2]/div/div[2]/div/div[4]/div/div/div[7]
+INFO - root - xpath returned: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[2]/div[2]/div/div[2]/div/div[4]/div/div/div[7]
+INFO - root - age button: <selenium.webdriver.remote.webelement.WebElement (session="9d6bddaeca2d805f64f911b9e09ea86c", element="a6365f58-44cc-4c74-a28e-e89bd3a9f2be")>
+INFO - root - Clicked the age button (26_30)
+INFO - root - Clicked the'search players'button
+INFO - root - -- Completed search_age 26_30 --
+INFO - root - Deleting all_invitables[0] (HOME)
+INFO - root - Number of invitables: 1
+INFO - root - -- Completed invite all on page --
+INFO - root - Total invited people: 1
+INFO - root - Starting to invite countries
+INFO - root - Clicked the filter button
+INFO - root - Clicked level filter
+INFO - root - -- Completed click filter button --
+INFO - root - Clicked the age button
+INFO - root - Entering country loop
+INFO - root - country id: 2, xpath: //*[@id="m-ui"]/div/div[4]/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/div[4]/div/div/div[2]
+WARNING - root - Something went wrong during invite countries
+INFO - root - Done, quitting driver
+WARNING - urllib3.connectionpool - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03A327D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/9d6bddaeca2d805f64f911b9e09ea86c
+WARNING - urllib3.connectionpool - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03A32F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/9d6bddaeca2d805f64f911b9e09ea86c
+WARNING - urllib3.connectionpool - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03A32F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/9d6bddaeca2d805f64f911b9e09ea86c
+
