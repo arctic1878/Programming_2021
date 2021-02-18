@@ -1,0 +1,5 @@
+INFO - root - Logging in to Athletics Mania
+INFO - root - Navigating to club management
+INFO - root - Clicking button with xpath: //*[@id="m-ui-app"]/div[1]/div[3]/div[1]/div[2]
+INFO - root - Clicking button with xpath: //*[@id="m-ui-app"]/div[1]/div[9]/div/div[1]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[3]/div[1]/div[4]
