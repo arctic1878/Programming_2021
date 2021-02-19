@@ -107,6 +107,10 @@ def write_scores_to_file(filename, player_scores):
     # If the file doesn't exist, create new file
     all_entries = []
     placement = 1
+    current_season = 1
+    previous_season = 1
+    current_total_score = 0
+    previous_total_score = 0
     # Reading all existing entries in points.csv to the list "all_entries"
     if os.path.isfile("./scores.csv"):
         with open('scores.csv', 'r', newline='') as csvfile:
@@ -118,16 +122,42 @@ def write_scores_to_file(filename, player_scores):
             print("Creating new file: 'scores.csv'")
             pass
 
+    # Calculate season
+    if len(all_entries) > 0:
+        for entry in all_entries:
+            previous_season = entry[4]
+
+        for entry in all_entries:
+            if entry[4] == previous_season:
+                score = int(entry[2].replace(',', ''))
+                previous_total_score += score
+        
+        for key in player_scores:
+            current_total_score += int(player_scores[key].replace(',', ''))
+        
+        logging.info(f'Previous total: {previous_total_score}, Season {previous_season}')
+
+        if current_total_score < previous_total_score:
+            current_season = int(previous_season) + 1
+        else:
+            current_season = previous_season
+
+        logging.info(f'Current total: {current_total_score}, Season {current_season}')
+
     with open('scores.csv', 'a', newline='') as csvfile:
-        fieldnames = ['placement', 'name', 'points', 'difference', 'date', 'season', ]
+        fieldnames = ['placement', 'name', 'points', 'date', 'season', ]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
 
-        for entry in player_scores:
-            writer.writerow({'placement': placement, 'name': unidecode.unidecode(entry),
-                             'points': player_scores[entry], 'difference': 0, 'date': '01.01.2000', 'season': '0'})
+        for key in player_scores:
+            writer.writerow({'placement': placement, 'name': unidecode.unidecode(key),
+                             'points': player_scores[key], 'date': '01.01.2000', 'season': current_season})
             placement += 1
-
+    
+    print("all_entries:")
+    for entry in all_entries:
+        print(entry[0])
+        print(entry[1])
 
 def click_button_xpath(driver, xpath, sleeptime=0):
 
