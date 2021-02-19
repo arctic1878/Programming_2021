@@ -8,10 +8,10 @@ import os
 import logging
 # from selenium.webdriver.common.action_chains import ActionChains
 import sys
-import smtplib
 import ssl
 import csv
 import unidecode
+import smtplib
 
 port = 465  # For SSL
 password = "qweasd113"
@@ -98,6 +98,8 @@ def calculate_scores(driver):
     filename = 'scores.csv'
     write_scores_to_file(filename, player_scores)
 
+    send_scores_as_mail(player_scores)
+
 
 def write_scores_to_file(filename, player_scores):
 
@@ -131,10 +133,10 @@ def write_scores_to_file(filename, player_scores):
             if entry[4] == previous_season:
                 score = int(entry[2].replace(',', ''))
                 previous_total_score += score
-        
+
         for key in player_scores:
             current_total_score += int(player_scores[key].replace(',', ''))
-        
+
         logging.info(f'Previous total: {previous_total_score}, Season {previous_season}')
 
         if current_total_score < previous_total_score:
@@ -153,11 +155,23 @@ def write_scores_to_file(filename, player_scores):
             writer.writerow({'placement': placement, 'name': unidecode.unidecode(key),
                              'points': player_scores[key], 'date': '01.01.2000', 'season': current_season})
             placement += 1
-    
+
     print("all_entries:")
     for entry in all_entries:
         print(entry[0])
         print(entry[1])
+
+
+def send_scores_as_mail(player_scores):
+    message = "Subject: Current Scores\n\n"
+    for key in player_scores:
+        name = key
+        score = player_scores[key]
+        message = "\n".join([message, f'{name}:{score}'])
+    with smtplib.SMTP_SSL("smtp.gmail.com", port, context=context) as server:
+        server.login(sender_email, password)
+        server.sendmail(sender_email, receiver_email, message.encode("utf-8"))
+
 
 def click_button_xpath(driver, xpath, sleeptime=0):
 
@@ -194,6 +208,7 @@ def main():
     nav_to_club_management(driver)
 
     calculate_scores(driver)
+
 
 if __name__ == "__main__":
     main()

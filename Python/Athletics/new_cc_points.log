@@ -3,5 +3,5 @@ INFO - root - Navigating to club management
 INFO - root - Clicking button with xpath: //*[@id="m-ui-app"]/div[1]/div[3]/div[1]/div[2]
 INFO - root - Clicking button with xpath: //*[@id="m-ui-app"]/div[1]/div[9]/div/div[1]/div[1]
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[3]/div[1]/div[4]
-INFO - root - Previous total: 46694, Season 0
-INFO - root - Current total: 99964, Season 0
+INFO - root - Previous total: 101319, Season 3
+INFO - root - Current total: 101319, Season 3
