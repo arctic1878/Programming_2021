@@ -17,6 +17,7 @@ port = 465  # For SSL
 password = "qweasd113"
 sender_email = "arctic1878.programming@gmail.com"
 receiver_email = "martin.stensen92@gmail.com"
+minimum_requirement = 2500
 
 # Create a secure SSL context
 context = ssl.create_default_context()
@@ -93,7 +94,7 @@ def calculate_scores(driver):
 
         player_scores[name] = score
 
-        print(f'Name: {name}, Score: {score}')
+        print(f'{name}: {score}')
 
     filename = 'scores.csv'
     write_scores_to_file(filename, player_scores)
@@ -113,6 +114,9 @@ def write_scores_to_file(filename, player_scores):
     previous_season = 1
     current_total_score = 0
     previous_total_score = 0
+    current_time = time.ctime(time.time())
+    idx_points, idx_date, idx_season = 2, 4, 5
+
     # Reading all existing entries in points.csv to the list "all_entries"
     if os.path.isfile("./scores.csv"):
         with open('scores.csv', 'r', newline='') as csvfile:
@@ -127,11 +131,12 @@ def write_scores_to_file(filename, player_scores):
     # Calculate season
     if len(all_entries) > 0:
         for entry in all_entries:
-            previous_season = entry[4]
+            previous_season = entry[idx_season]
+            previous_date = entry[idx_date]
 
         for entry in all_entries:
-            if entry[4] == previous_season:
-                score = int(entry[2].replace(',', ''))
+            if entry[idx_date] == previous_date:
+                score = int(entry[idx_points].replace(',', ''))
                 previous_total_score += score
 
         for key in player_scores:
@@ -147,27 +152,42 @@ def write_scores_to_file(filename, player_scores):
         logging.info(f'Current total: {current_total_score}, Season {current_season}')
 
     with open('scores.csv', 'a', newline='') as csvfile:
-        fieldnames = ['placement', 'name', 'points', 'date', 'season', ]
+        fieldnames = ['placement', 'name', 'points', ' ', 'date', 'season']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
 
         for key in player_scores:
             writer.writerow({'placement': placement, 'name': unidecode.unidecode(key),
-                             'points': player_scores[key], 'date': '01.01.2000', 'season': current_season})
+                             'points': player_scores[key], ' ': ' ', 'date': current_time, 'season': current_season})
             placement += 1
 
-    print("all_entries:")
-    for entry in all_entries:
-        print(entry[0])
-        print(entry[1])
+    # print("all_entries:")
+    # for entry in all_entries:
+    #     print(entry[0])
+    #     print(entry[1])
 
 
 def send_scores_as_mail(player_scores):
+    placement = 1
+    tot_score = 0
+    avg_score = 0
     message = "Subject: Current Scores\n\n"
     for key in player_scores:
         name = key
         score = player_scores[key]
-        message = "\n".join([message, f'{name}:{score}'])
+        message = "\n".join([message, f'{placement}. {name}: {score}'])
+        placement += 1
+        tot_score += int(score.replace(',', ''))
+
+    avg_score = tot_score/len(player_scores)
+    message = "\n\n".join([message, f'Total score: {tot_score}\nAverage score: {avg_score}\n'])
+
+    message = "\n\n".join([message, "Players in danger:\n"])
+
+    for key in player_scores:
+        if int(player_scores[key].replace(',', '')) < minimum_requirement:
+            message = "\n".join([message, f'{key}: {player_scores[key]}'])
+
     with smtplib.SMTP_SSL("smtp.gmail.com", port, context=context) as server:
         server.login(sender_email, password)
         server.sendmail(sender_email, receiver_email, message.encode("utf-8"))

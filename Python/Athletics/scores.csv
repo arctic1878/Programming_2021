@@ -1,408 +1,1118 @@
-placement,name,points,date,season
-1,Johan Blake Jr,"3,265",01.01.2000,0
-2,Erik salve Salvesen,"2,635",01.01.2000,0
-3,Bse90,"1,970",01.01.2000,0
-4,Hildy12,"1,760",01.01.2000,0
-5,Fabiano Angelo,"1,647",01.01.2000,0
-6,Sigg Luggurd,"1,575",01.01.2000,0
-7,lleveller,"1,573",01.01.2000,0
-8,Kai svendsen,"1,393",01.01.2000,0
-9,Martin Stensen,"1,390",01.01.2000,0
-10,Perry Ben,"1,375",01.01.2000,0
-11,Tommy Ryan,"1,370",01.01.2000,0
-12,Jesse McDermott,"1,290",01.01.2000,0
-13,Fernando Nits,"1,265",01.01.2000,0
-14,Anneli Madaj,"1,185",01.01.2000,0
-15,Geoff Aitken,"1,183",01.01.2000,0
-16,Yoni Navon,"1,120",01.01.2000,0
-17,Luigi Staino,"1,070",01.01.2000,0
-18,Frankie Wilde,"1,060",01.01.2000,0
-19,Ivica Kiwi,"1,035",01.01.2000,0
-20,Vladimir Kovacevic,"1,020",01.01.2000,0
-21,William Olsen o,"1,005",01.01.2000,0
-22,Alexboy,"1,000",01.01.2000,0
-23,Thanasis Lamprinos,985,01.01.2000,0
-24,Norbert Jochymski,955,01.01.2000,0
-25,Allen Nash,870,01.01.2000,0
-26,Melly Yannik,780,01.01.2000,0
-27,Knut Pedersen,753,01.01.2000,0
-28,Philippe Dupont,750,01.01.2000,0
-29,Patrick Zaglauer,725,01.01.2000,0
-30,BunnyNorway,675,01.01.2000,0
-31,Bob Goossens 1,632,01.01.2000,0
-32,Matej Pittermann,629,01.01.2000,0
-33,Ozolins,620,01.01.2000,0
-34,Selvig,530,01.01.2000,0
-35,Dave Dingle,513,01.01.2000,0
-36,Spine,500,01.01.2000,0
-37,Scott Andrew Rogers,490,01.01.2000,0
-38,Fabien 1982,465,01.01.2000,0
-39,Phil Swift,445,01.01.2000,0
-40,Gareth mckevitt,440,01.01.2000,0
-41,DarkWin44,425,01.01.2000,0
-42,eran abu,370,01.01.2000,0
-43,Raymond Haukas,342,01.01.2000,0
-44,Macke karlsson,325,01.01.2000,0
-45,Bas Vossen,312,01.01.2000,0
-46,Soglo,295,01.01.2000,0
-47,Lasse Bidtnes,275,01.01.2000,0
-48,Arne Hong,262,01.01.2000,0
-49,Valdis Dzirnavnieks,145,01.01.2000,0
-50,Zero Tollerance,0,01.01.2000,0
-placement,name,points,date,season
-1,Geoff Aitken,"4,582",01.01.2000,0
-2,Johan Blake Jr,"4,180",01.01.2000,0
-3,Kai svendsen,"3,341",01.01.2000,0
-4,Erik salve Salvesen,"3,300",01.01.2000,0
-5,Ivica Kiwi,"3,016",01.01.2000,0
-6,Perry Ben,"3,005",01.01.2000,0
-7,Sigg Luggurd,"2,907",01.01.2000,0
-8,Bse90,"2,890",01.01.2000,0
-9,Hildy12,"2,820",01.01.2000,0
-10,Patrick Zaglauer,"2,730",01.01.2000,0
-11,Fabiano Angelo,"2,690",01.01.2000,0
-12,lleveller,"2,577",01.01.2000,0
-13,Yoni Navon,"2,485",01.01.2000,0
-14,Luigi Staino,"2,463",01.01.2000,0
-15,Jesse McDermott,"2,455",01.01.2000,0
-16,BunnyNorway,"2,350",01.01.2000,0
-17,Thanasis Lamprinos,"2,285",01.01.2000,0
-18,Anneli Madaj,"2,240",01.01.2000,0
-19,Vladimir Kovacevic,"2,195",01.01.2000,0
-20,Fernando Nits,"2,185",01.01.2000,0
-21,Alexboy,"2,095",01.01.2000,0
-22,Melly Yannik,"2,090",01.01.2000,0
-23,Raymond Haukas,"2,085",01.01.2000,0
-24,Tommy Ryan,"2,078",01.01.2000,0
-25,Allen Nash,"2,055",01.01.2000,0
-26,Spine,"2,007",01.01.2000,0
-27,Gareth mckevitt,"1,915",01.01.2000,0
-28,Scott Andrew Rogers,"1,915",01.01.2000,0
-29,Martin Stensen,"1,905",01.01.2000,0
-30,Bas Vossen,"1,847",01.01.2000,0
-31,Philippe Dupont,"1,677",01.01.2000,0
-32,Norbert Jochymski,"1,665",01.01.2000,0
-33,Macke karlsson,"1,582",01.01.2000,0
-34,Matej Pittermann,"1,568",01.01.2000,0
-35,Bob Goossens 1,"1,564",01.01.2000,0
-36,Frankie Wilde,"1,545",01.01.2000,0
-37,DarkWin44,"1,545",01.01.2000,0
-38,William Olsen o,"1,465",01.01.2000,0
-39,eran abu,"1,295",01.01.2000,0
-40,Dave Dingle,"1,208",01.01.2000,0
-41,Ozolins,"1,095",01.01.2000,0
-42,Selvig,"1,050",01.01.2000,0
-43,Knut Pedersen,"1,028",01.01.2000,0
-44,Fabien 1982,"1,008",01.01.2000,0
-45,Arne Hong,972,01.01.2000,0
-46,Soglo,950,01.01.2000,0
-47,Valdis Dzirnavnieks,860,01.01.2000,0
-48,Phil Swift,445,01.01.2000,0
-49,Lasse Bidtnes,445,01.01.2000,0
-50,Zero Tollerance,309,01.01.2000,0
-placement,name,points,date,season
-1,Geoff Aitken,"4,582",01.01.2000,1
-2,Johan Blake Jr,"4,180",01.01.2000,1
-3,Kai svendsen,"3,341",01.01.2000,1
-4,Erik salve Salvesen,"3,335",01.01.2000,1
-5,Sigg Luggurd,"3,087",01.01.2000,1
-6,Perry Ben,"3,035",01.01.2000,1
-7,Ivica Kiwi,"3,016",01.01.2000,1
-8,Bse90,"2,890",01.01.2000,1
-9,BunnyNorway,"2,870",01.01.2000,1
-10,Hildy12,"2,820",01.01.2000,1
-11,Patrick Zaglauer,"2,730",01.01.2000,1
-12,Fabiano Angelo,"2,690",01.01.2000,1
-13,lleveller,"2,577",01.01.2000,1
-14,Yoni Navon,"2,485",01.01.2000,1
-15,Luigi Staino,"2,463",01.01.2000,1
-16,Jesse McDermott,"2,455",01.01.2000,1
-17,Thanasis Lamprinos,"2,285",01.01.2000,1
-18,Anneli Madaj,"2,240",01.01.2000,1
-19,Vladimir Kovacevic,"2,195",01.01.2000,1
-20,Fernando Nits,"2,185",01.01.2000,1
-21,Alexboy,"2,095",01.01.2000,1
-22,Melly Yannik,"2,090",01.01.2000,1
-23,Raymond Haukas,"2,085",01.01.2000,1
-24,Tommy Ryan,"2,078",01.01.2000,1
-25,Allen Nash,"2,055",01.01.2000,1
-26,Spine,"2,054",01.01.2000,1
-27,Gareth mckevitt,"1,915",01.01.2000,1
-28,Scott Andrew Rogers,"1,915",01.01.2000,1
-29,Martin Stensen,"1,905",01.01.2000,1
-30,Bas Vossen,"1,847",01.01.2000,1
-31,Philippe Dupont,"1,677",01.01.2000,1
-32,Norbert Jochymski,"1,665",01.01.2000,1
-33,DarkWin44,"1,605",01.01.2000,1
-34,Macke karlsson,"1,582",01.01.2000,1
-35,Matej Pittermann,"1,568",01.01.2000,1
-36,Bob Goossens 1,"1,564",01.01.2000,1
-37,Frankie Wilde,"1,545",01.01.2000,1
-38,William Olsen o,"1,465",01.01.2000,1
-39,eran abu,"1,295",01.01.2000,1
-40,Dave Dingle,"1,208",01.01.2000,1
-41,Fabien 1982,"1,103",01.01.2000,1
-42,Ozolins,"1,095",01.01.2000,1
-43,Selvig,"1,050",01.01.2000,1
-44,Knut Pedersen,"1,028",01.01.2000,1
-45,Arne Hong,972,01.01.2000,1
-46,Soglo,950,01.01.2000,1
-47,Valdis Dzirnavnieks,890,01.01.2000,1
-48,Phil Swift,445,01.01.2000,1
-49,Lasse Bidtnes,445,01.01.2000,1
-50,Zero Tollerance,309,01.01.2000,1
-placement,name,points,date,season
-1,Geoff Aitken,"4,582",01.01.2000,1
-2,Johan Blake Jr,"4,180",01.01.2000,1
-3,Kai svendsen,"3,341",01.01.2000,1
-4,Erik salve Salvesen,"3,335",01.01.2000,1
-5,Sigg Luggurd,"3,127",01.01.2000,1
-6,Perry Ben,"3,035",01.01.2000,1
-7,Ivica Kiwi,"3,016",01.01.2000,1
-8,BunnyNorway,"2,925",01.01.2000,1
-9,Bse90,"2,890",01.01.2000,1
-10,Hildy12,"2,820",01.01.2000,1
-11,Patrick Zaglauer,"2,730",01.01.2000,1
-12,Fabiano Angelo,"2,690",01.01.2000,1
-13,lleveller,"2,577",01.01.2000,1
-14,Yoni Navon,"2,485",01.01.2000,1
-15,Luigi Staino,"2,463",01.01.2000,1
-16,Jesse McDermott,"2,455",01.01.2000,1
-17,Thanasis Lamprinos,"2,285",01.01.2000,1
-18,Anneli Madaj,"2,240",01.01.2000,1
-19,Vladimir Kovacevic,"2,195",01.01.2000,1
-20,Fernando Nits,"2,185",01.01.2000,1
-21,Alexboy,"2,095",01.01.2000,1
-22,Melly Yannik,"2,090",01.01.2000,1
-23,Raymond Haukas,"2,085",01.01.2000,1
-24,Tommy Ryan,"2,078",01.01.2000,1
-25,Allen Nash,"2,055",01.01.2000,1
-26,Spine,"2,054",01.01.2000,1
-27,Gareth mckevitt,"1,915",01.01.2000,1
-28,Scott Andrew Rogers,"1,915",01.01.2000,1
-29,Martin Stensen,"1,905",01.01.2000,1
-30,Bas Vossen,"1,847",01.01.2000,1
-31,Philippe Dupont,"1,677",01.01.2000,1
-32,Norbert Jochymski,"1,665",01.01.2000,1
-33,DarkWin44,"1,605",01.01.2000,1
-34,Macke karlsson,"1,582",01.01.2000,1
-35,Matej Pittermann,"1,568",01.01.2000,1
-36,Bob Goossens 1,"1,564",01.01.2000,1
-37,Frankie Wilde,"1,545",01.01.2000,1
-38,William Olsen o,"1,465",01.01.2000,1
-39,eran abu,"1,295",01.01.2000,1
-40,Dave Dingle,"1,208",01.01.2000,1
-41,Fabien 1982,"1,103",01.01.2000,1
-42,Ozolins,"1,095",01.01.2000,1
-43,Selvig,"1,050",01.01.2000,1
-44,Knut Pedersen,"1,028",01.01.2000,1
-45,Arne Hong,972,01.01.2000,1
-46,Soglo,950,01.01.2000,1
-47,Valdis Dzirnavnieks,890,01.01.2000,1
-48,Phil Swift,445,01.01.2000,1
-49,Lasse Bidtnes,445,01.01.2000,1
-50,Zero Tollerance,309,01.01.2000,1
-placement,name,points,date,season
-1,Geoff Aitken,"4,582",01.01.2000,2
-2,Johan Blake Jr,"4,180",01.01.2000,2
-3,Kai svendsen,"3,341",01.01.2000,2
-4,Erik salve Salvesen,"3,335",01.01.2000,2
-5,Sigg Luggurd,"3,127",01.01.2000,2
-6,Perry Ben,"3,035",01.01.2000,2
-7,Ivica Kiwi,"3,016",01.01.2000,2
-8,BunnyNorway,"2,965",01.01.2000,2
-9,Bse90,"2,890",01.01.2000,2
-10,Hildy12,"2,820",01.01.2000,2
-11,Patrick Zaglauer,"2,730",01.01.2000,2
-12,Fabiano Angelo,"2,690",01.01.2000,2
-13,lleveller,"2,577",01.01.2000,2
-14,Yoni Navon,"2,485",01.01.2000,2
-15,Luigi Staino,"2,463",01.01.2000,2
-16,Jesse McDermott,"2,455",01.01.2000,2
-17,Thanasis Lamprinos,"2,285",01.01.2000,2
-18,Anneli Madaj,"2,240",01.01.2000,2
-19,Vladimir Kovacevic,"2,195",01.01.2000,2
-20,Fernando Nits,"2,185",01.01.2000,2
-21,Alexboy,"2,095",01.01.2000,2
-22,Melly Yannik,"2,090",01.01.2000,2
-23,Raymond Haukas,"2,085",01.01.2000,2
-24,Tommy Ryan,"2,078",01.01.2000,2
-25,Allen Nash,"2,055",01.01.2000,2
-26,Spine,"2,054",01.01.2000,2
-27,Gareth mckevitt,"1,915",01.01.2000,2
-28,Scott Andrew Rogers,"1,915",01.01.2000,2
-29,Martin Stensen,"1,905",01.01.2000,2
-30,Bas Vossen,"1,847",01.01.2000,2
-31,Philippe Dupont,"1,677",01.01.2000,2
-32,Norbert Jochymski,"1,665",01.01.2000,2
-33,DarkWin44,"1,605",01.01.2000,2
-34,Macke karlsson,"1,582",01.01.2000,2
-35,Matej Pittermann,"1,568",01.01.2000,2
-36,Bob Goossens 1,"1,564",01.01.2000,2
-37,Frankie Wilde,"1,545",01.01.2000,2
-38,William Olsen o,"1,465",01.01.2000,2
-39,eran abu,"1,295",01.01.2000,2
-40,Dave Dingle,"1,208",01.01.2000,2
-41,Fabien 1982,"1,103",01.01.2000,2
-42,Ozolins,"1,095",01.01.2000,2
-43,Selvig,"1,050",01.01.2000,2
-44,Knut Pedersen,"1,028",01.01.2000,2
-45,Arne Hong,972,01.01.2000,2
-46,Soglo,950,01.01.2000,2
-47,Valdis Dzirnavnieks,890,01.01.2000,2
-48,Phil Swift,445,01.01.2000,2
-49,Lasse Bidtnes,445,01.01.2000,2
-50,Zero Tollerance,309,01.01.2000,2
-placement,name,points,date,season
-1,Geoff Aitken,"4,582",01.01.2000,2
-2,Johan Blake Jr,"4,180",01.01.2000,2
-3,Kai svendsen,"3,341",01.01.2000,2
-4,Erik salve Salvesen,"3,335",01.01.2000,2
-5,Sigg Luggurd,"3,127",01.01.2000,2
-6,Perry Ben,"3,035",01.01.2000,2
-7,Ivica Kiwi,"3,016",01.01.2000,2
-8,BunnyNorway,"2,990",01.01.2000,2
-9,Bse90,"2,890",01.01.2000,2
-10,Hildy12,"2,820",01.01.2000,2
-11,Patrick Zaglauer,"2,730",01.01.2000,2
-12,Fabiano Angelo,"2,690",01.01.2000,2
-13,lleveller,"2,577",01.01.2000,2
-14,Yoni Navon,"2,485",01.01.2000,2
-15,Luigi Staino,"2,463",01.01.2000,2
-16,Jesse McDermott,"2,455",01.01.2000,2
-17,Thanasis Lamprinos,"2,285",01.01.2000,2
-18,Anneli Madaj,"2,240",01.01.2000,2
-19,Vladimir Kovacevic,"2,195",01.01.2000,2
-20,Fernando Nits,"2,185",01.01.2000,2
-21,Alexboy,"2,095",01.01.2000,2
-22,Melly Yannik,"2,090",01.01.2000,2
-23,Raymond Haukas,"2,085",01.01.2000,2
-24,Tommy Ryan,"2,078",01.01.2000,2
-25,Allen Nash,"2,055",01.01.2000,2
-26,Spine,"2,054",01.01.2000,2
-27,Gareth mckevitt,"1,915",01.01.2000,2
-28,Scott Andrew Rogers,"1,915",01.01.2000,2
-29,Martin Stensen,"1,905",01.01.2000,2
-30,Bas Vossen,"1,847",01.01.2000,2
-31,Philippe Dupont,"1,677",01.01.2000,2
-32,Norbert Jochymski,"1,665",01.01.2000,2
-33,DarkWin44,"1,605",01.01.2000,2
-34,Macke karlsson,"1,582",01.01.2000,2
-35,Matej Pittermann,"1,568",01.01.2000,2
-36,Bob Goossens 1,"1,564",01.01.2000,2
-37,Frankie Wilde,"1,545",01.01.2000,2
-38,William Olsen o,"1,465",01.01.2000,2
-39,eran abu,"1,295",01.01.2000,2
-40,Dave Dingle,"1,208",01.01.2000,2
-41,Fabien 1982,"1,103",01.01.2000,2
-42,Ozolins,"1,095",01.01.2000,2
-43,Selvig,"1,050",01.01.2000,2
-44,Knut Pedersen,"1,028",01.01.2000,2
-45,Arne Hong,972,01.01.2000,2
-46,Soglo,950,01.01.2000,2
-47,Valdis Dzirnavnieks,890,01.01.2000,2
-48,Phil Swift,445,01.01.2000,2
-49,Lasse Bidtnes,445,01.01.2000,2
-50,Zero Tollerance,309,01.01.2000,2
-placement,name,points,date,season
-1,Geoff Aitken,"4,582",01.01.2000,3
-2,Johan Blake Jr,"4,180",01.01.2000,3
-3,Kai svendsen,"3,359",01.01.2000,3
-4,Erik salve Salvesen,"3,335",01.01.2000,3
-5,Sigg Luggurd,"3,127",01.01.2000,3
-6,BunnyNorway,"3,105",01.01.2000,3
-7,Perry Ben,"3,035",01.01.2000,3
-8,Ivica Kiwi,"3,016",01.01.2000,3
-9,Bse90,"2,890",01.01.2000,3
-10,Hildy12,"2,820",01.01.2000,3
-11,Patrick Zaglauer,"2,730",01.01.2000,3
-12,Fabiano Angelo,"2,690",01.01.2000,3
-13,lleveller,"2,577",01.01.2000,3
-14,Yoni Navon,"2,485",01.01.2000,3
-15,Luigi Staino,"2,463",01.01.2000,3
-16,Jesse McDermott,"2,455",01.01.2000,3
-17,Thanasis Lamprinos,"2,285",01.01.2000,3
-18,Anneli Madaj,"2,240",01.01.2000,3
-19,Vladimir Kovacevic,"2,195",01.01.2000,3
-20,Fernando Nits,"2,185",01.01.2000,3
-21,Alexboy,"2,095",01.01.2000,3
-22,Melly Yannik,"2,090",01.01.2000,3
-23,Raymond Haukas,"2,085",01.01.2000,3
-24,Tommy Ryan,"2,078",01.01.2000,3
-25,Allen Nash,"2,055",01.01.2000,3
-26,Spine,"2,054",01.01.2000,3
-27,Gareth mckevitt,"1,915",01.01.2000,3
-28,Scott Andrew Rogers,"1,915",01.01.2000,3
-29,Martin Stensen,"1,905",01.01.2000,3
-30,Bas Vossen,"1,847",01.01.2000,3
-31,Norbert Jochymski,"1,730",01.01.2000,3
-32,Philippe Dupont,"1,677",01.01.2000,3
-33,DarkWin44,"1,605",01.01.2000,3
-34,Macke karlsson,"1,582",01.01.2000,3
-35,Matej Pittermann,"1,568",01.01.2000,3
-36,Bob Goossens 1,"1,564",01.01.2000,3
-37,Frankie Wilde,"1,545",01.01.2000,3
-38,William Olsen o,"1,465",01.01.2000,3
-39,eran abu,"1,295",01.01.2000,3
-40,Dave Dingle,"1,208",01.01.2000,3
-41,Fabien 1982,"1,103",01.01.2000,3
-42,Ozolins,"1,095",01.01.2000,3
-43,Selvig,"1,050",01.01.2000,3
-44,Knut Pedersen,"1,028",01.01.2000,3
-45,Arne Hong,972,01.01.2000,3
-46,Soglo,950,01.01.2000,3
-47,Valdis Dzirnavnieks,890,01.01.2000,3
-48,Phil Swift,445,01.01.2000,3
-49,Lasse Bidtnes,445,01.01.2000,3
-50,Zero Tollerance,309,01.01.2000,3
-placement,name,points,date,season
-1,Geoff Aitken,"4,582",01.01.2000,3
-2,Johan Blake Jr,"4,180",01.01.2000,3
-3,Kai svendsen,"3,359",01.01.2000,3
-4,Erik salve Salvesen,"3,335",01.01.2000,3
-5,Sigg Luggurd,"3,127",01.01.2000,3
-6,BunnyNorway,"3,105",01.01.2000,3
-7,Perry Ben,"3,035",01.01.2000,3
-8,Ivica Kiwi,"3,016",01.01.2000,3
-9,Bse90,"2,890",01.01.2000,3
-10,Hildy12,"2,820",01.01.2000,3
-11,Patrick Zaglauer,"2,730",01.01.2000,3
-12,Fabiano Angelo,"2,690",01.01.2000,3
-13,lleveller,"2,577",01.01.2000,3
-14,Yoni Navon,"2,485",01.01.2000,3
-15,Luigi Staino,"2,463",01.01.2000,3
-16,Jesse McDermott,"2,455",01.01.2000,3
-17,Thanasis Lamprinos,"2,285",01.01.2000,3
-18,Anneli Madaj,"2,240",01.01.2000,3
-19,Vladimir Kovacevic,"2,195",01.01.2000,3
-20,Fernando Nits,"2,185",01.01.2000,3
-21,Alexboy,"2,095",01.01.2000,3
-22,Melly Yannik,"2,090",01.01.2000,3
-23,Raymond Haukas,"2,085",01.01.2000,3
-24,Tommy Ryan,"2,078",01.01.2000,3
-25,Allen Nash,"2,055",01.01.2000,3
-26,Spine,"2,054",01.01.2000,3
-27,Gareth mckevitt,"1,915",01.01.2000,3
-28,Scott Andrew Rogers,"1,915",01.01.2000,3
-29,Martin Stensen,"1,905",01.01.2000,3
-30,Bas Vossen,"1,847",01.01.2000,3
-31,Norbert Jochymski,"1,730",01.01.2000,3
-32,Philippe Dupont,"1,677",01.01.2000,3
-33,DarkWin44,"1,605",01.01.2000,3
-34,Macke karlsson,"1,582",01.01.2000,3
-35,Matej Pittermann,"1,568",01.01.2000,3
-36,Bob Goossens 1,"1,564",01.01.2000,3
-37,Frankie Wilde,"1,545",01.01.2000,3
-38,William Olsen o,"1,465",01.01.2000,3
-39,eran abu,"1,295",01.01.2000,3
-40,Dave Dingle,"1,208",01.01.2000,3
-41,Fabien 1982,"1,103",01.01.2000,3
-42,Ozolins,"1,095",01.01.2000,3
-43,Selvig,"1,050",01.01.2000,3
-44,Knut Pedersen,"1,028",01.01.2000,3
-45,Arne Hong,972,01.01.2000,3
-46,Soglo,950,01.01.2000,3
-47,Valdis Dzirnavnieks,890,01.01.2000,3
-48,Phil Swift,445,01.01.2000,3
-49,Lasse Bidtnes,445,01.01.2000,3
-50,Zero Tollerance,309,01.01.2000,3
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,567", ,Sat Feb 20 10:08:40 2021,1
+2,Johan Blake Jr,"5,285", ,Sat Feb 20 10:08:40 2021,1
+3,Bse90,"4,690", ,Sat Feb 20 10:08:40 2021,1
+4,Kai svendsen,"4,563", ,Sat Feb 20 10:08:40 2021,1
+5,Patrick Zaglauer,"4,310", ,Sat Feb 20 10:08:40 2021,1
+6,Thanasis Lamprinos,"4,115", ,Sat Feb 20 10:08:40 2021,1
+7,Perry Ben,"4,110", ,Sat Feb 20 10:08:40 2021,1
+8,Erik salve Salvesen,"3,830", ,Sat Feb 20 10:08:40 2021,1
+9,Sigg Luggurd,"3,720", ,Sat Feb 20 10:08:40 2021,1
+10,Scott Andrew Rogers,"3,625", ,Sat Feb 20 10:08:40 2021,1
+11,Hildy12,"3,615", ,Sat Feb 20 10:08:40 2021,1
+12,Ivica Kiwi,"3,606", ,Sat Feb 20 10:08:40 2021,1
+13,Vladimir Kovacevic,"3,240", ,Sat Feb 20 10:08:40 2021,1
+14,Tommy Ryan,"3,216", ,Sat Feb 20 10:08:40 2021,1
+15,BunnyNorway,"3,190", ,Sat Feb 20 10:08:40 2021,1
+16,Jesse McDermott,"3,165", ,Sat Feb 20 10:08:40 2021,1
+17,Frankie Wilde,"3,025", ,Sat Feb 20 10:08:40 2021,1
+18,Alexboy,"2,825", ,Sat Feb 20 10:08:40 2021,1
+19,Fabiano Angelo,"2,815", ,Sat Feb 20 10:08:40 2021,1
+20,Gareth mckevitt,"2,795", ,Sat Feb 20 10:08:40 2021,1
+21,DarkWin44,"2,720", ,Sat Feb 20 10:08:40 2021,1
+22,Anneli Madaj,"2,705", ,Sat Feb 20 10:08:40 2021,1
+23,Fernando Nits,"2,700", ,Sat Feb 20 10:08:40 2021,1
+24,Raymond Haukas,"2,663", ,Sat Feb 20 10:08:40 2021,1
+25,lleveller,"2,632", ,Sat Feb 20 10:08:40 2021,1
+26,Arne Hong,"2,601", ,Sat Feb 20 10:08:40 2021,1
+27,Martin Stensen,"2,495", ,Sat Feb 20 10:08:40 2021,1
+28,Yoni Navon,"2,485", ,Sat Feb 20 10:08:40 2021,1
+29,Luigi Staino,"2,463", ,Sat Feb 20 10:08:40 2021,1
+30,Melly Yannik,"2,400", ,Sat Feb 20 10:08:40 2021,1
+31,Allen Nash,"2,290", ,Sat Feb 20 10:08:40 2021,1
+32,Macke karlsson,"2,280", ,Sat Feb 20 10:08:40 2021,1
+33,Matej Pittermann,"2,267", ,Sat Feb 20 10:08:40 2021,1
+34,Philippe Dupont,"2,221", ,Sat Feb 20 10:08:40 2021,1
+35,Knut Pedersen,"2,194", ,Sat Feb 20 10:08:40 2021,1
+36,Bas Vossen,"2,127", ,Sat Feb 20 10:08:40 2021,1
+37,Norbert Jochymski,"2,110", ,Sat Feb 20 10:08:40 2021,1
+38,Spine,"2,083", ,Sat Feb 20 10:08:40 2021,1
+39,Dave Dingle,"1,988", ,Sat Feb 20 10:08:40 2021,1
+40,Bob Goossens 1,"1,959", ,Sat Feb 20 10:08:40 2021,1
+41,eran abu,"1,910", ,Sat Feb 20 10:08:40 2021,1
+42,Soglo,"1,620", ,Sat Feb 20 10:08:40 2021,1
+43,William Olsen o,"1,615", ,Sat Feb 20 10:08:40 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 10:08:40 2021,1
+45,Phil Swift,"1,331", ,Sat Feb 20 10:08:40 2021,1
+46,Selvig,"1,325", ,Sat Feb 20 10:08:40 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 10:08:40 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 10:08:40 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 10:08:40 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 10:08:40 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,567", ,Sat Feb 20 10:11:17 2021,1
+2,Johan Blake Jr,"5,285", ,Sat Feb 20 10:11:17 2021,1
+3,Bse90,"4,745", ,Sat Feb 20 10:11:17 2021,1
+4,Kai svendsen,"4,563", ,Sat Feb 20 10:11:17 2021,1
+5,Patrick Zaglauer,"4,310", ,Sat Feb 20 10:11:17 2021,1
+6,Thanasis Lamprinos,"4,115", ,Sat Feb 20 10:11:17 2021,1
+7,Perry Ben,"4,110", ,Sat Feb 20 10:11:17 2021,1
+8,Erik salve Salvesen,"3,830", ,Sat Feb 20 10:11:17 2021,1
+9,Sigg Luggurd,"3,720", ,Sat Feb 20 10:11:17 2021,1
+10,Scott Andrew Rogers,"3,625", ,Sat Feb 20 10:11:17 2021,1
+11,Hildy12,"3,615", ,Sat Feb 20 10:11:17 2021,1
+12,Ivica Kiwi,"3,606", ,Sat Feb 20 10:11:17 2021,1
+13,Vladimir Kovacevic,"3,240", ,Sat Feb 20 10:11:17 2021,1
+14,Tommy Ryan,"3,216", ,Sat Feb 20 10:11:17 2021,1
+15,BunnyNorway,"3,190", ,Sat Feb 20 10:11:17 2021,1
+16,Jesse McDermott,"3,165", ,Sat Feb 20 10:11:17 2021,1
+17,Frankie Wilde,"3,025", ,Sat Feb 20 10:11:17 2021,1
+18,Alexboy,"2,825", ,Sat Feb 20 10:11:17 2021,1
+19,Fabiano Angelo,"2,815", ,Sat Feb 20 10:11:17 2021,1
+20,Gareth mckevitt,"2,795", ,Sat Feb 20 10:11:17 2021,1
+21,DarkWin44,"2,720", ,Sat Feb 20 10:11:17 2021,1
+22,Anneli Madaj,"2,705", ,Sat Feb 20 10:11:17 2021,1
+23,Fernando Nits,"2,700", ,Sat Feb 20 10:11:17 2021,1
+24,Raymond Haukas,"2,663", ,Sat Feb 20 10:11:17 2021,1
+25,lleveller,"2,632", ,Sat Feb 20 10:11:17 2021,1
+26,Arne Hong,"2,601", ,Sat Feb 20 10:11:17 2021,1
+27,Martin Stensen,"2,495", ,Sat Feb 20 10:11:17 2021,1
+28,Yoni Navon,"2,485", ,Sat Feb 20 10:11:17 2021,1
+29,Luigi Staino,"2,463", ,Sat Feb 20 10:11:17 2021,1
+30,Melly Yannik,"2,400", ,Sat Feb 20 10:11:17 2021,1
+31,Allen Nash,"2,290", ,Sat Feb 20 10:11:17 2021,1
+32,Macke karlsson,"2,280", ,Sat Feb 20 10:11:17 2021,1
+33,Matej Pittermann,"2,267", ,Sat Feb 20 10:11:17 2021,1
+34,Philippe Dupont,"2,221", ,Sat Feb 20 10:11:17 2021,1
+35,Knut Pedersen,"2,194", ,Sat Feb 20 10:11:17 2021,1
+36,Bas Vossen,"2,127", ,Sat Feb 20 10:11:17 2021,1
+37,Norbert Jochymski,"2,110", ,Sat Feb 20 10:11:17 2021,1
+38,Spine,"2,083", ,Sat Feb 20 10:11:17 2021,1
+39,Dave Dingle,"1,988", ,Sat Feb 20 10:11:17 2021,1
+40,Bob Goossens 1,"1,959", ,Sat Feb 20 10:11:17 2021,1
+41,eran abu,"1,910", ,Sat Feb 20 10:11:17 2021,1
+42,Soglo,"1,620", ,Sat Feb 20 10:11:17 2021,1
+43,William Olsen o,"1,615", ,Sat Feb 20 10:11:17 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 10:11:17 2021,1
+45,Phil Swift,"1,331", ,Sat Feb 20 10:11:17 2021,1
+46,Selvig,"1,325", ,Sat Feb 20 10:11:17 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 10:11:17 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 10:11:17 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 10:11:17 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 10:11:17 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,567", ,Sat Feb 20 10:13:02 2021,1
+2,Johan Blake Jr,"5,285", ,Sat Feb 20 10:13:02 2021,1
+3,Bse90,"4,745", ,Sat Feb 20 10:13:02 2021,1
+4,Kai svendsen,"4,563", ,Sat Feb 20 10:13:02 2021,1
+5,Patrick Zaglauer,"4,310", ,Sat Feb 20 10:13:02 2021,1
+6,Thanasis Lamprinos,"4,115", ,Sat Feb 20 10:13:02 2021,1
+7,Perry Ben,"4,110", ,Sat Feb 20 10:13:02 2021,1
+8,Erik salve Salvesen,"3,830", ,Sat Feb 20 10:13:02 2021,1
+9,Sigg Luggurd,"3,720", ,Sat Feb 20 10:13:02 2021,1
+10,Scott Andrew Rogers,"3,625", ,Sat Feb 20 10:13:02 2021,1
+11,Hildy12,"3,615", ,Sat Feb 20 10:13:02 2021,1
+12,Ivica Kiwi,"3,606", ,Sat Feb 20 10:13:02 2021,1
+13,Vladimir Kovacevic,"3,240", ,Sat Feb 20 10:13:02 2021,1
+14,Tommy Ryan,"3,216", ,Sat Feb 20 10:13:02 2021,1
+15,BunnyNorway,"3,190", ,Sat Feb 20 10:13:02 2021,1
+16,Jesse McDermott,"3,165", ,Sat Feb 20 10:13:02 2021,1
+17,Frankie Wilde,"3,025", ,Sat Feb 20 10:13:02 2021,1
+18,Alexboy,"2,825", ,Sat Feb 20 10:13:02 2021,1
+19,Fabiano Angelo,"2,815", ,Sat Feb 20 10:13:02 2021,1
+20,Gareth mckevitt,"2,795", ,Sat Feb 20 10:13:02 2021,1
+21,DarkWin44,"2,720", ,Sat Feb 20 10:13:02 2021,1
+22,Anneli Madaj,"2,705", ,Sat Feb 20 10:13:02 2021,1
+23,Fernando Nits,"2,700", ,Sat Feb 20 10:13:02 2021,1
+24,Raymond Haukas,"2,663", ,Sat Feb 20 10:13:02 2021,1
+25,lleveller,"2,632", ,Sat Feb 20 10:13:02 2021,1
+26,Arne Hong,"2,601", ,Sat Feb 20 10:13:02 2021,1
+27,Martin Stensen,"2,495", ,Sat Feb 20 10:13:02 2021,1
+28,Yoni Navon,"2,485", ,Sat Feb 20 10:13:02 2021,1
+29,Luigi Staino,"2,463", ,Sat Feb 20 10:13:02 2021,1
+30,Melly Yannik,"2,400", ,Sat Feb 20 10:13:02 2021,1
+31,Allen Nash,"2,290", ,Sat Feb 20 10:13:02 2021,1
+32,Macke karlsson,"2,280", ,Sat Feb 20 10:13:02 2021,1
+33,Matej Pittermann,"2,267", ,Sat Feb 20 10:13:02 2021,1
+34,Philippe Dupont,"2,221", ,Sat Feb 20 10:13:02 2021,1
+35,Knut Pedersen,"2,194", ,Sat Feb 20 10:13:02 2021,1
+36,Bas Vossen,"2,127", ,Sat Feb 20 10:13:02 2021,1
+37,Norbert Jochymski,"2,110", ,Sat Feb 20 10:13:02 2021,1
+38,Spine,"2,083", ,Sat Feb 20 10:13:02 2021,1
+39,Dave Dingle,"1,988", ,Sat Feb 20 10:13:02 2021,1
+40,Bob Goossens 1,"1,959", ,Sat Feb 20 10:13:02 2021,1
+41,eran abu,"1,910", ,Sat Feb 20 10:13:02 2021,1
+42,Soglo,"1,620", ,Sat Feb 20 10:13:02 2021,1
+43,William Olsen o,"1,615", ,Sat Feb 20 10:13:02 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 10:13:02 2021,1
+45,Phil Swift,"1,331", ,Sat Feb 20 10:13:02 2021,1
+46,Selvig,"1,325", ,Sat Feb 20 10:13:02 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 10:13:02 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 10:13:02 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 10:13:02 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 10:13:02 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,567", ,Sat Feb 20 10:14:22 2021,1
+2,Johan Blake Jr,"5,285", ,Sat Feb 20 10:14:22 2021,1
+3,Bse90,"4,745", ,Sat Feb 20 10:14:22 2021,1
+4,Kai svendsen,"4,563", ,Sat Feb 20 10:14:22 2021,1
+5,Patrick Zaglauer,"4,310", ,Sat Feb 20 10:14:22 2021,1
+6,Thanasis Lamprinos,"4,115", ,Sat Feb 20 10:14:22 2021,1
+7,Perry Ben,"4,110", ,Sat Feb 20 10:14:22 2021,1
+8,Erik salve Salvesen,"3,830", ,Sat Feb 20 10:14:22 2021,1
+9,Sigg Luggurd,"3,720", ,Sat Feb 20 10:14:22 2021,1
+10,Scott Andrew Rogers,"3,625", ,Sat Feb 20 10:14:22 2021,1
+11,Hildy12,"3,615", ,Sat Feb 20 10:14:22 2021,1
+12,Ivica Kiwi,"3,606", ,Sat Feb 20 10:14:22 2021,1
+13,Vladimir Kovacevic,"3,240", ,Sat Feb 20 10:14:22 2021,1
+14,Tommy Ryan,"3,216", ,Sat Feb 20 10:14:22 2021,1
+15,BunnyNorway,"3,190", ,Sat Feb 20 10:14:22 2021,1
+16,Jesse McDermott,"3,165", ,Sat Feb 20 10:14:22 2021,1
+17,Frankie Wilde,"3,025", ,Sat Feb 20 10:14:22 2021,1
+18,Alexboy,"2,825", ,Sat Feb 20 10:14:22 2021,1
+19,Fabiano Angelo,"2,815", ,Sat Feb 20 10:14:22 2021,1
+20,Gareth mckevitt,"2,795", ,Sat Feb 20 10:14:22 2021,1
+21,DarkWin44,"2,720", ,Sat Feb 20 10:14:22 2021,1
+22,Anneli Madaj,"2,705", ,Sat Feb 20 10:14:22 2021,1
+23,Fernando Nits,"2,700", ,Sat Feb 20 10:14:22 2021,1
+24,Raymond Haukas,"2,663", ,Sat Feb 20 10:14:22 2021,1
+25,lleveller,"2,632", ,Sat Feb 20 10:14:22 2021,1
+26,Arne Hong,"2,601", ,Sat Feb 20 10:14:22 2021,1
+27,Martin Stensen,"2,495", ,Sat Feb 20 10:14:22 2021,1
+28,Yoni Navon,"2,485", ,Sat Feb 20 10:14:22 2021,1
+29,Luigi Staino,"2,463", ,Sat Feb 20 10:14:22 2021,1
+30,Melly Yannik,"2,400", ,Sat Feb 20 10:14:22 2021,1
+31,Allen Nash,"2,290", ,Sat Feb 20 10:14:22 2021,1
+32,Macke karlsson,"2,280", ,Sat Feb 20 10:14:22 2021,1
+33,Matej Pittermann,"2,267", ,Sat Feb 20 10:14:22 2021,1
+34,Philippe Dupont,"2,221", ,Sat Feb 20 10:14:22 2021,1
+35,Knut Pedersen,"2,194", ,Sat Feb 20 10:14:22 2021,1
+36,Bas Vossen,"2,127", ,Sat Feb 20 10:14:22 2021,1
+37,Norbert Jochymski,"2,110", ,Sat Feb 20 10:14:22 2021,1
+38,Spine,"2,083", ,Sat Feb 20 10:14:22 2021,1
+39,Dave Dingle,"1,988", ,Sat Feb 20 10:14:22 2021,1
+40,Bob Goossens 1,"1,959", ,Sat Feb 20 10:14:22 2021,1
+41,eran abu,"1,910", ,Sat Feb 20 10:14:22 2021,1
+42,Soglo,"1,620", ,Sat Feb 20 10:14:22 2021,1
+43,William Olsen o,"1,615", ,Sat Feb 20 10:14:22 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 10:14:22 2021,1
+45,Phil Swift,"1,331", ,Sat Feb 20 10:14:22 2021,1
+46,Selvig,"1,325", ,Sat Feb 20 10:14:22 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 10:14:22 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 10:14:22 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 10:14:22 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 10:14:22 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,567", ,Sat Feb 20 10:16:30 2021,1
+2,Johan Blake Jr,"5,285", ,Sat Feb 20 10:16:30 2021,1
+3,Bse90,"4,745", ,Sat Feb 20 10:16:30 2021,1
+4,Kai svendsen,"4,563", ,Sat Feb 20 10:16:30 2021,1
+5,Patrick Zaglauer,"4,310", ,Sat Feb 20 10:16:30 2021,1
+6,Thanasis Lamprinos,"4,115", ,Sat Feb 20 10:16:30 2021,1
+7,Perry Ben,"4,110", ,Sat Feb 20 10:16:30 2021,1
+8,Erik salve Salvesen,"3,830", ,Sat Feb 20 10:16:30 2021,1
+9,Sigg Luggurd,"3,720", ,Sat Feb 20 10:16:30 2021,1
+10,Scott Andrew Rogers,"3,625", ,Sat Feb 20 10:16:30 2021,1
+11,Hildy12,"3,615", ,Sat Feb 20 10:16:30 2021,1
+12,Ivica Kiwi,"3,606", ,Sat Feb 20 10:16:30 2021,1
+13,Vladimir Kovacevic,"3,240", ,Sat Feb 20 10:16:30 2021,1
+14,Tommy Ryan,"3,216", ,Sat Feb 20 10:16:30 2021,1
+15,BunnyNorway,"3,190", ,Sat Feb 20 10:16:30 2021,1
+16,Jesse McDermott,"3,165", ,Sat Feb 20 10:16:30 2021,1
+17,Frankie Wilde,"3,025", ,Sat Feb 20 10:16:30 2021,1
+18,Alexboy,"2,895", ,Sat Feb 20 10:16:30 2021,1
+19,Fabiano Angelo,"2,815", ,Sat Feb 20 10:16:30 2021,1
+20,Gareth mckevitt,"2,795", ,Sat Feb 20 10:16:30 2021,1
+21,DarkWin44,"2,720", ,Sat Feb 20 10:16:30 2021,1
+22,Anneli Madaj,"2,705", ,Sat Feb 20 10:16:30 2021,1
+23,Fernando Nits,"2,700", ,Sat Feb 20 10:16:30 2021,1
+24,Raymond Haukas,"2,663", ,Sat Feb 20 10:16:30 2021,1
+25,lleveller,"2,632", ,Sat Feb 20 10:16:30 2021,1
+26,Arne Hong,"2,601", ,Sat Feb 20 10:16:30 2021,1
+27,Martin Stensen,"2,495", ,Sat Feb 20 10:16:30 2021,1
+28,Yoni Navon,"2,485", ,Sat Feb 20 10:16:30 2021,1
+29,Luigi Staino,"2,463", ,Sat Feb 20 10:16:30 2021,1
+30,Melly Yannik,"2,400", ,Sat Feb 20 10:16:30 2021,1
+31,Allen Nash,"2,290", ,Sat Feb 20 10:16:30 2021,1
+32,Macke karlsson,"2,280", ,Sat Feb 20 10:16:30 2021,1
+33,Matej Pittermann,"2,267", ,Sat Feb 20 10:16:30 2021,1
+34,Philippe Dupont,"2,221", ,Sat Feb 20 10:16:30 2021,1
+35,Knut Pedersen,"2,194", ,Sat Feb 20 10:16:30 2021,1
+36,Bas Vossen,"2,127", ,Sat Feb 20 10:16:30 2021,1
+37,Spine,"2,113", ,Sat Feb 20 10:16:30 2021,1
+38,Norbert Jochymski,"2,110", ,Sat Feb 20 10:16:30 2021,1
+39,Dave Dingle,"1,988", ,Sat Feb 20 10:16:30 2021,1
+40,Bob Goossens 1,"1,959", ,Sat Feb 20 10:16:30 2021,1
+41,eran abu,"1,910", ,Sat Feb 20 10:16:30 2021,1
+42,Soglo,"1,620", ,Sat Feb 20 10:16:30 2021,1
+43,William Olsen o,"1,615", ,Sat Feb 20 10:16:30 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 10:16:30 2021,1
+45,Phil Swift,"1,331", ,Sat Feb 20 10:16:30 2021,1
+46,Selvig,"1,325", ,Sat Feb 20 10:16:30 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 10:16:30 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 10:16:30 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 10:16:30 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 10:16:30 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,567", ,Sat Feb 20 10:22:39 2021,1
+2,Johan Blake Jr,"5,285", ,Sat Feb 20 10:22:39 2021,1
+3,Bse90,"4,745", ,Sat Feb 20 10:22:39 2021,1
+4,Kai svendsen,"4,563", ,Sat Feb 20 10:22:39 2021,1
+5,Patrick Zaglauer,"4,310", ,Sat Feb 20 10:22:39 2021,1
+6,Thanasis Lamprinos,"4,115", ,Sat Feb 20 10:22:39 2021,1
+7,Perry Ben,"4,110", ,Sat Feb 20 10:22:39 2021,1
+8,Erik salve Salvesen,"3,830", ,Sat Feb 20 10:22:39 2021,1
+9,Sigg Luggurd,"3,720", ,Sat Feb 20 10:22:39 2021,1
+10,Scott Andrew Rogers,"3,625", ,Sat Feb 20 10:22:39 2021,1
+11,Hildy12,"3,615", ,Sat Feb 20 10:22:39 2021,1
+12,Ivica Kiwi,"3,606", ,Sat Feb 20 10:22:39 2021,1
+13,Vladimir Kovacevic,"3,240", ,Sat Feb 20 10:22:39 2021,1
+14,Tommy Ryan,"3,216", ,Sat Feb 20 10:22:39 2021,1
+15,BunnyNorway,"3,190", ,Sat Feb 20 10:22:39 2021,1
+16,Jesse McDermott,"3,165", ,Sat Feb 20 10:22:39 2021,1
+17,Frankie Wilde,"3,025", ,Sat Feb 20 10:22:39 2021,1
+18,Alexboy,"2,895", ,Sat Feb 20 10:22:39 2021,1
+19,Fabiano Angelo,"2,815", ,Sat Feb 20 10:22:39 2021,1
+20,Gareth mckevitt,"2,795", ,Sat Feb 20 10:22:39 2021,1
+21,DarkWin44,"2,720", ,Sat Feb 20 10:22:39 2021,1
+22,lleveller,"2,717", ,Sat Feb 20 10:22:39 2021,1
+23,Anneli Madaj,"2,705", ,Sat Feb 20 10:22:39 2021,1
+24,Fernando Nits,"2,700", ,Sat Feb 20 10:22:39 2021,1
+25,Raymond Haukas,"2,683", ,Sat Feb 20 10:22:39 2021,1
+26,Arne Hong,"2,601", ,Sat Feb 20 10:22:39 2021,1
+27,Martin Stensen,"2,495", ,Sat Feb 20 10:22:39 2021,1
+28,Yoni Navon,"2,485", ,Sat Feb 20 10:22:39 2021,1
+29,Luigi Staino,"2,463", ,Sat Feb 20 10:22:39 2021,1
+30,Melly Yannik,"2,400", ,Sat Feb 20 10:22:39 2021,1
+31,Allen Nash,"2,290", ,Sat Feb 20 10:22:39 2021,1
+32,Macke karlsson,"2,280", ,Sat Feb 20 10:22:39 2021,1
+33,Matej Pittermann,"2,267", ,Sat Feb 20 10:22:39 2021,1
+34,Philippe Dupont,"2,221", ,Sat Feb 20 10:22:39 2021,1
+35,Knut Pedersen,"2,194", ,Sat Feb 20 10:22:39 2021,1
+36,Spine,"2,189", ,Sat Feb 20 10:22:39 2021,1
+37,Bas Vossen,"2,127", ,Sat Feb 20 10:22:39 2021,1
+38,Norbert Jochymski,"2,110", ,Sat Feb 20 10:22:39 2021,1
+39,Dave Dingle,"1,988", ,Sat Feb 20 10:22:39 2021,1
+40,Bob Goossens 1,"1,959", ,Sat Feb 20 10:22:39 2021,1
+41,eran abu,"1,910", ,Sat Feb 20 10:22:39 2021,1
+42,Soglo,"1,620", ,Sat Feb 20 10:22:39 2021,1
+43,William Olsen o,"1,615", ,Sat Feb 20 10:22:39 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 10:22:39 2021,1
+45,Phil Swift,"1,331", ,Sat Feb 20 10:22:39 2021,1
+46,Selvig,"1,325", ,Sat Feb 20 10:22:39 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 10:22:39 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 10:22:39 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 10:22:39 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 10:22:39 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,567", ,Sat Feb 20 10:37:29 2021,1
+2,Johan Blake Jr,"5,285", ,Sat Feb 20 10:37:29 2021,1
+3,Bse90,"4,745", ,Sat Feb 20 10:37:29 2021,1
+4,Kai svendsen,"4,563", ,Sat Feb 20 10:37:29 2021,1
+5,Patrick Zaglauer,"4,345", ,Sat Feb 20 10:37:29 2021,1
+6,Thanasis Lamprinos,"4,115", ,Sat Feb 20 10:37:29 2021,1
+7,Perry Ben,"4,110", ,Sat Feb 20 10:37:29 2021,1
+8,Erik salve Salvesen,"3,955", ,Sat Feb 20 10:37:29 2021,1
+9,Sigg Luggurd,"3,720", ,Sat Feb 20 10:37:29 2021,1
+10,Scott Andrew Rogers,"3,625", ,Sat Feb 20 10:37:29 2021,1
+11,Hildy12,"3,615", ,Sat Feb 20 10:37:29 2021,1
+12,Ivica Kiwi,"3,606", ,Sat Feb 20 10:37:29 2021,1
+13,Frankie Wilde,"3,340", ,Sat Feb 20 10:37:29 2021,1
+14,lleveller,"3,277", ,Sat Feb 20 10:37:29 2021,1
+15,Vladimir Kovacevic,"3,240", ,Sat Feb 20 10:37:29 2021,1
+16,Tommy Ryan,"3,216", ,Sat Feb 20 10:37:29 2021,1
+17,BunnyNorway,"3,190", ,Sat Feb 20 10:37:29 2021,1
+18,Jesse McDermott,"3,165", ,Sat Feb 20 10:37:29 2021,1
+19,Fabiano Angelo,"3,080", ,Sat Feb 20 10:37:29 2021,1
+20,Alexboy,"2,895", ,Sat Feb 20 10:37:29 2021,1
+21,Gareth mckevitt,"2,795", ,Sat Feb 20 10:37:29 2021,1
+22,DarkWin44,"2,720", ,Sat Feb 20 10:37:29 2021,1
+23,Anneli Madaj,"2,705", ,Sat Feb 20 10:37:29 2021,1
+24,Fernando Nits,"2,700", ,Sat Feb 20 10:37:29 2021,1
+25,Raymond Haukas,"2,683", ,Sat Feb 20 10:37:29 2021,1
+26,Martin Stensen,"2,645", ,Sat Feb 20 10:37:29 2021,1
+27,Arne Hong,"2,601", ,Sat Feb 20 10:37:29 2021,1
+28,Yoni Navon,"2,485", ,Sat Feb 20 10:37:29 2021,1
+29,Luigi Staino,"2,463", ,Sat Feb 20 10:37:29 2021,1
+30,Melly Yannik,"2,400", ,Sat Feb 20 10:37:29 2021,1
+31,Spine,"2,382", ,Sat Feb 20 10:37:29 2021,1
+32,Allen Nash,"2,290", ,Sat Feb 20 10:37:29 2021,1
+33,Macke karlsson,"2,280", ,Sat Feb 20 10:37:29 2021,1
+34,Matej Pittermann,"2,267", ,Sat Feb 20 10:37:29 2021,1
+35,Philippe Dupont,"2,221", ,Sat Feb 20 10:37:29 2021,1
+36,Knut Pedersen,"2,194", ,Sat Feb 20 10:37:29 2021,1
+37,Bas Vossen,"2,127", ,Sat Feb 20 10:37:29 2021,1
+38,Norbert Jochymski,"2,110", ,Sat Feb 20 10:37:29 2021,1
+39,Dave Dingle,"1,988", ,Sat Feb 20 10:37:29 2021,1
+40,Bob Goossens 1,"1,959", ,Sat Feb 20 10:37:29 2021,1
+41,eran abu,"1,930", ,Sat Feb 20 10:37:29 2021,1
+42,Soglo,"1,620", ,Sat Feb 20 10:37:29 2021,1
+43,William Olsen o,"1,615", ,Sat Feb 20 10:37:29 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 10:37:29 2021,1
+45,Selvig,"1,385", ,Sat Feb 20 10:37:29 2021,1
+46,Phil Swift,"1,331", ,Sat Feb 20 10:37:29 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 10:37:29 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 10:37:29 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 10:37:29 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 10:37:29 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,657", ,Sat Feb 20 12:15:28 2021,1
+2,Johan Blake Jr,"5,285", ,Sat Feb 20 12:15:28 2021,1
+3,Bse90,"4,825", ,Sat Feb 20 12:15:28 2021,1
+4,Kai svendsen,"4,635", ,Sat Feb 20 12:15:28 2021,1
+5,Patrick Zaglauer,"4,628", ,Sat Feb 20 12:15:28 2021,1
+6,Perry Ben,"4,555", ,Sat Feb 20 12:15:28 2021,1
+7,Erik salve Salvesen,"4,165", ,Sat Feb 20 12:15:28 2021,1
+8,Scott Andrew Rogers,"4,150", ,Sat Feb 20 12:15:28 2021,1
+9,Thanasis Lamprinos,"4,115", ,Sat Feb 20 12:15:28 2021,1
+10,Sigg Luggurd,"3,720", ,Sat Feb 20 12:15:28 2021,1
+11,lleveller,"3,702", ,Sat Feb 20 12:15:28 2021,1
+12,Hildy12,"3,615", ,Sat Feb 20 12:15:28 2021,1
+13,Ivica Kiwi,"3,606", ,Sat Feb 20 12:15:28 2021,1
+14,BunnyNorway,"3,540", ,Sat Feb 20 12:15:28 2021,1
+15,Frankie Wilde,"3,365", ,Sat Feb 20 12:15:28 2021,1
+16,Vladimir Kovacevic,"3,320", ,Sat Feb 20 12:15:28 2021,1
+17,Tommy Ryan,"3,216", ,Sat Feb 20 12:15:28 2021,1
+18,Jesse McDermott,"3,165", ,Sat Feb 20 12:15:28 2021,1
+19,Raymond Haukas,"3,143", ,Sat Feb 20 12:15:28 2021,1
+20,Martin Stensen,"3,130", ,Sat Feb 20 12:15:28 2021,1
+21,Fabiano Angelo,"3,120", ,Sat Feb 20 12:15:28 2021,1
+22,Alexboy,"3,080", ,Sat Feb 20 12:15:28 2021,1
+23,Spine,"2,943", ,Sat Feb 20 12:15:28 2021,1
+24,Anneli Madaj,"2,825", ,Sat Feb 20 12:15:28 2021,1
+25,Gareth mckevitt,"2,795", ,Sat Feb 20 12:15:28 2021,1
+26,DarkWin44,"2,720", ,Sat Feb 20 12:15:28 2021,1
+27,Fernando Nits,"2,700", ,Sat Feb 20 12:15:28 2021,1
+28,Arne Hong,"2,601", ,Sat Feb 20 12:15:28 2021,1
+29,Bob Goossens 1,"2,501", ,Sat Feb 20 12:15:28 2021,1
+30,Yoni Navon,"2,485", ,Sat Feb 20 12:15:28 2021,1
+31,Luigi Staino,"2,463", ,Sat Feb 20 12:15:28 2021,1
+32,Philippe Dupont,"2,431", ,Sat Feb 20 12:15:28 2021,1
+33,Melly Yannik,"2,400", ,Sat Feb 20 12:15:28 2021,1
+34,Allen Nash,"2,290", ,Sat Feb 20 12:15:28 2021,1
+35,Macke karlsson,"2,280", ,Sat Feb 20 12:15:28 2021,1
+36,Matej Pittermann,"2,267", ,Sat Feb 20 12:15:28 2021,1
+37,Knut Pedersen,"2,194", ,Sat Feb 20 12:15:28 2021,1
+38,Bas Vossen,"2,127", ,Sat Feb 20 12:15:28 2021,1
+39,Norbert Jochymski,"2,110", ,Sat Feb 20 12:15:28 2021,1
+40,Soglo,"1,995", ,Sat Feb 20 12:15:28 2021,1
+41,Dave Dingle,"1,988", ,Sat Feb 20 12:15:28 2021,1
+42,eran abu,"1,930", ,Sat Feb 20 12:15:28 2021,1
+43,William Olsen o,"1,920", ,Sat Feb 20 12:15:28 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 12:15:28 2021,1
+45,Selvig,"1,385", ,Sat Feb 20 12:15:28 2021,1
+46,Phil Swift,"1,331", ,Sat Feb 20 12:15:28 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 12:15:28 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 12:15:28 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 12:15:28 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 12:15:28 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,692", ,Sat Feb 20 12:16:34 2021,1
+2,Johan Blake Jr,"5,285", ,Sat Feb 20 12:16:34 2021,1
+3,Bse90,"4,825", ,Sat Feb 20 12:16:34 2021,1
+4,Patrick Zaglauer,"4,668", ,Sat Feb 20 12:16:34 2021,1
+5,Kai svendsen,"4,635", ,Sat Feb 20 12:16:34 2021,1
+6,Perry Ben,"4,555", ,Sat Feb 20 12:16:34 2021,1
+7,Erik salve Salvesen,"4,165", ,Sat Feb 20 12:16:34 2021,1
+8,Scott Andrew Rogers,"4,150", ,Sat Feb 20 12:16:34 2021,1
+9,Thanasis Lamprinos,"4,115", ,Sat Feb 20 12:16:34 2021,1
+10,Sigg Luggurd,"3,720", ,Sat Feb 20 12:16:34 2021,1
+11,lleveller,"3,702", ,Sat Feb 20 12:16:34 2021,1
+12,Hildy12,"3,615", ,Sat Feb 20 12:16:34 2021,1
+13,Ivica Kiwi,"3,606", ,Sat Feb 20 12:16:34 2021,1
+14,BunnyNorway,"3,540", ,Sat Feb 20 12:16:34 2021,1
+15,Frankie Wilde,"3,365", ,Sat Feb 20 12:16:34 2021,1
+16,Vladimir Kovacevic,"3,320", ,Sat Feb 20 12:16:34 2021,1
+17,Tommy Ryan,"3,216", ,Sat Feb 20 12:16:34 2021,1
+18,Jesse McDermott,"3,165", ,Sat Feb 20 12:16:34 2021,1
+19,Raymond Haukas,"3,143", ,Sat Feb 20 12:16:34 2021,1
+20,Martin Stensen,"3,130", ,Sat Feb 20 12:16:34 2021,1
+21,Fabiano Angelo,"3,120", ,Sat Feb 20 12:16:34 2021,1
+22,Alexboy,"3,080", ,Sat Feb 20 12:16:34 2021,1
+23,Spine,"2,943", ,Sat Feb 20 12:16:34 2021,1
+24,Anneli Madaj,"2,825", ,Sat Feb 20 12:16:34 2021,1
+25,Gareth mckevitt,"2,795", ,Sat Feb 20 12:16:34 2021,1
+26,DarkWin44,"2,720", ,Sat Feb 20 12:16:34 2021,1
+27,Fernando Nits,"2,700", ,Sat Feb 20 12:16:34 2021,1
+28,Arne Hong,"2,601", ,Sat Feb 20 12:16:34 2021,1
+29,Bob Goossens 1,"2,501", ,Sat Feb 20 12:16:34 2021,1
+30,Yoni Navon,"2,485", ,Sat Feb 20 12:16:34 2021,1
+31,Luigi Staino,"2,463", ,Sat Feb 20 12:16:34 2021,1
+32,Philippe Dupont,"2,431", ,Sat Feb 20 12:16:34 2021,1
+33,Melly Yannik,"2,400", ,Sat Feb 20 12:16:34 2021,1
+34,Allen Nash,"2,290", ,Sat Feb 20 12:16:34 2021,1
+35,Macke karlsson,"2,280", ,Sat Feb 20 12:16:34 2021,1
+36,Matej Pittermann,"2,267", ,Sat Feb 20 12:16:34 2021,1
+37,Knut Pedersen,"2,194", ,Sat Feb 20 12:16:34 2021,1
+38,Bas Vossen,"2,127", ,Sat Feb 20 12:16:34 2021,1
+39,Norbert Jochymski,"2,110", ,Sat Feb 20 12:16:34 2021,1
+40,Soglo,"1,995", ,Sat Feb 20 12:16:34 2021,1
+41,Dave Dingle,"1,988", ,Sat Feb 20 12:16:34 2021,1
+42,eran abu,"1,930", ,Sat Feb 20 12:16:34 2021,1
+43,William Olsen o,"1,920", ,Sat Feb 20 12:16:34 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 12:16:34 2021,1
+45,Selvig,"1,385", ,Sat Feb 20 12:16:34 2021,1
+46,Phil Swift,"1,331", ,Sat Feb 20 12:16:34 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 12:16:34 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 12:16:34 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 12:16:34 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 12:16:34 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,707", ,Sat Feb 20 12:17:19 2021,1
+2,Johan Blake Jr,"5,285", ,Sat Feb 20 12:17:19 2021,1
+3,Bse90,"4,825", ,Sat Feb 20 12:17:19 2021,1
+4,Patrick Zaglauer,"4,668", ,Sat Feb 20 12:17:19 2021,1
+5,Kai svendsen,"4,635", ,Sat Feb 20 12:17:19 2021,1
+6,Perry Ben,"4,555", ,Sat Feb 20 12:17:19 2021,1
+7,Erik salve Salvesen,"4,165", ,Sat Feb 20 12:17:19 2021,1
+8,Scott Andrew Rogers,"4,150", ,Sat Feb 20 12:17:19 2021,1
+9,Thanasis Lamprinos,"4,115", ,Sat Feb 20 12:17:19 2021,1
+10,Sigg Luggurd,"3,720", ,Sat Feb 20 12:17:19 2021,1
+11,lleveller,"3,702", ,Sat Feb 20 12:17:19 2021,1
+12,Hildy12,"3,615", ,Sat Feb 20 12:17:19 2021,1
+13,Ivica Kiwi,"3,606", ,Sat Feb 20 12:17:19 2021,1
+14,BunnyNorway,"3,540", ,Sat Feb 20 12:17:19 2021,1
+15,Frankie Wilde,"3,365", ,Sat Feb 20 12:17:19 2021,1
+16,Vladimir Kovacevic,"3,320", ,Sat Feb 20 12:17:19 2021,1
+17,Tommy Ryan,"3,216", ,Sat Feb 20 12:17:19 2021,1
+18,Jesse McDermott,"3,165", ,Sat Feb 20 12:17:19 2021,1
+19,Raymond Haukas,"3,143", ,Sat Feb 20 12:17:19 2021,1
+20,Martin Stensen,"3,130", ,Sat Feb 20 12:17:19 2021,1
+21,Fabiano Angelo,"3,120", ,Sat Feb 20 12:17:19 2021,1
+22,Alexboy,"3,080", ,Sat Feb 20 12:17:19 2021,1
+23,Spine,"2,943", ,Sat Feb 20 12:17:19 2021,1
+24,Anneli Madaj,"2,825", ,Sat Feb 20 12:17:19 2021,1
+25,Gareth mckevitt,"2,795", ,Sat Feb 20 12:17:19 2021,1
+26,DarkWin44,"2,720", ,Sat Feb 20 12:17:19 2021,1
+27,Fernando Nits,"2,700", ,Sat Feb 20 12:17:19 2021,1
+28,Arne Hong,"2,601", ,Sat Feb 20 12:17:19 2021,1
+29,Bob Goossens 1,"2,501", ,Sat Feb 20 12:17:19 2021,1
+30,Yoni Navon,"2,485", ,Sat Feb 20 12:17:19 2021,1
+31,Luigi Staino,"2,463", ,Sat Feb 20 12:17:19 2021,1
+32,Philippe Dupont,"2,431", ,Sat Feb 20 12:17:19 2021,1
+33,Melly Yannik,"2,400", ,Sat Feb 20 12:17:19 2021,1
+34,Allen Nash,"2,290", ,Sat Feb 20 12:17:19 2021,1
+35,Macke karlsson,"2,280", ,Sat Feb 20 12:17:19 2021,1
+36,Matej Pittermann,"2,267", ,Sat Feb 20 12:17:19 2021,1
+37,Knut Pedersen,"2,194", ,Sat Feb 20 12:17:19 2021,1
+38,Bas Vossen,"2,127", ,Sat Feb 20 12:17:19 2021,1
+39,Norbert Jochymski,"2,110", ,Sat Feb 20 12:17:19 2021,1
+40,Soglo,"1,995", ,Sat Feb 20 12:17:19 2021,1
+41,Dave Dingle,"1,988", ,Sat Feb 20 12:17:19 2021,1
+42,eran abu,"1,930", ,Sat Feb 20 12:17:19 2021,1
+43,William Olsen o,"1,920", ,Sat Feb 20 12:17:19 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 12:17:19 2021,1
+45,Selvig,"1,385", ,Sat Feb 20 12:17:19 2021,1
+46,Phil Swift,"1,331", ,Sat Feb 20 12:17:19 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 12:17:19 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 12:17:19 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 12:17:19 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 12:17:19 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,707", ,Sat Feb 20 12:38:13 2021,1
+2,Johan Blake Jr,"5,285", ,Sat Feb 20 12:38:13 2021,1
+3,Patrick Zaglauer,"5,238", ,Sat Feb 20 12:38:13 2021,1
+4,Bse90,"4,825", ,Sat Feb 20 12:38:13 2021,1
+5,Kai svendsen,"4,635", ,Sat Feb 20 12:38:13 2021,1
+6,Perry Ben,"4,595", ,Sat Feb 20 12:38:13 2021,1
+7,Erik salve Salvesen,"4,165", ,Sat Feb 20 12:38:13 2021,1
+8,Scott Andrew Rogers,"4,150", ,Sat Feb 20 12:38:13 2021,1
+9,Thanasis Lamprinos,"4,115", ,Sat Feb 20 12:38:13 2021,1
+10,Sigg Luggurd,"3,720", ,Sat Feb 20 12:38:13 2021,1
+11,lleveller,"3,702", ,Sat Feb 20 12:38:13 2021,1
+12,Hildy12,"3,615", ,Sat Feb 20 12:38:13 2021,1
+13,Ivica Kiwi,"3,606", ,Sat Feb 20 12:38:13 2021,1
+14,BunnyNorway,"3,540", ,Sat Feb 20 12:38:13 2021,1
+15,Frankie Wilde,"3,365", ,Sat Feb 20 12:38:13 2021,1
+16,Alexboy,"3,360", ,Sat Feb 20 12:38:13 2021,1
+17,Vladimir Kovacevic,"3,320", ,Sat Feb 20 12:38:13 2021,1
+18,Tommy Ryan,"3,216", ,Sat Feb 20 12:38:13 2021,1
+19,Jesse McDermott,"3,165", ,Sat Feb 20 12:38:13 2021,1
+20,Raymond Haukas,"3,143", ,Sat Feb 20 12:38:13 2021,1
+21,Martin Stensen,"3,130", ,Sat Feb 20 12:38:13 2021,1
+22,Fabiano Angelo,"3,120", ,Sat Feb 20 12:38:13 2021,1
+23,Spine,"2,943", ,Sat Feb 20 12:38:13 2021,1
+24,Anneli Madaj,"2,825", ,Sat Feb 20 12:38:13 2021,1
+25,Gareth mckevitt,"2,795", ,Sat Feb 20 12:38:13 2021,1
+26,DarkWin44,"2,720", ,Sat Feb 20 12:38:13 2021,1
+27,Fernando Nits,"2,700", ,Sat Feb 20 12:38:13 2021,1
+28,Arne Hong,"2,601", ,Sat Feb 20 12:38:13 2021,1
+29,Bob Goossens 1,"2,501", ,Sat Feb 20 12:38:13 2021,1
+30,Yoni Navon,"2,485", ,Sat Feb 20 12:38:13 2021,1
+31,Luigi Staino,"2,463", ,Sat Feb 20 12:38:13 2021,1
+32,Philippe Dupont,"2,431", ,Sat Feb 20 12:38:13 2021,1
+33,Melly Yannik,"2,400", ,Sat Feb 20 12:38:13 2021,1
+34,Matej Pittermann,"2,357", ,Sat Feb 20 12:38:13 2021,1
+35,Allen Nash,"2,290", ,Sat Feb 20 12:38:13 2021,1
+36,Macke karlsson,"2,280", ,Sat Feb 20 12:38:13 2021,1
+37,Knut Pedersen,"2,194", ,Sat Feb 20 12:38:13 2021,1
+38,Bas Vossen,"2,127", ,Sat Feb 20 12:38:13 2021,1
+39,Norbert Jochymski,"2,110", ,Sat Feb 20 12:38:13 2021,1
+40,Soglo,"2,030", ,Sat Feb 20 12:38:13 2021,1
+41,Dave Dingle,"1,988", ,Sat Feb 20 12:38:13 2021,1
+42,eran abu,"1,930", ,Sat Feb 20 12:38:13 2021,1
+43,William Olsen o,"1,920", ,Sat Feb 20 12:38:13 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 12:38:13 2021,1
+45,Selvig,"1,385", ,Sat Feb 20 12:38:13 2021,1
+46,Phil Swift,"1,331", ,Sat Feb 20 12:38:13 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 12:38:13 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 12:38:13 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 12:38:13 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 12:38:13 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,707", ,Sat Feb 20 12:40:43 2021,1
+2,Patrick Zaglauer,"5,298", ,Sat Feb 20 12:40:43 2021,1
+3,Johan Blake Jr,"5,285", ,Sat Feb 20 12:40:43 2021,1
+4,Bse90,"4,825", ,Sat Feb 20 12:40:43 2021,1
+5,Kai svendsen,"4,635", ,Sat Feb 20 12:40:43 2021,1
+6,Perry Ben,"4,595", ,Sat Feb 20 12:40:43 2021,1
+7,Erik salve Salvesen,"4,165", ,Sat Feb 20 12:40:43 2021,1
+8,Scott Andrew Rogers,"4,150", ,Sat Feb 20 12:40:43 2021,1
+9,Thanasis Lamprinos,"4,115", ,Sat Feb 20 12:40:43 2021,1
+10,Sigg Luggurd,"3,720", ,Sat Feb 20 12:40:43 2021,1
+11,lleveller,"3,702", ,Sat Feb 20 12:40:43 2021,1
+12,Hildy12,"3,615", ,Sat Feb 20 12:40:43 2021,1
+13,Ivica Kiwi,"3,606", ,Sat Feb 20 12:40:43 2021,1
+14,BunnyNorway,"3,540", ,Sat Feb 20 12:40:43 2021,1
+15,Frankie Wilde,"3,365", ,Sat Feb 20 12:40:43 2021,1
+16,Alexboy,"3,360", ,Sat Feb 20 12:40:43 2021,1
+17,Vladimir Kovacevic,"3,320", ,Sat Feb 20 12:40:43 2021,1
+18,Tommy Ryan,"3,216", ,Sat Feb 20 12:40:43 2021,1
+19,Jesse McDermott,"3,165", ,Sat Feb 20 12:40:43 2021,1
+20,Raymond Haukas,"3,143", ,Sat Feb 20 12:40:43 2021,1
+21,Martin Stensen,"3,130", ,Sat Feb 20 12:40:43 2021,1
+22,Fabiano Angelo,"3,120", ,Sat Feb 20 12:40:43 2021,1
+23,Spine,"2,943", ,Sat Feb 20 12:40:43 2021,1
+24,Anneli Madaj,"2,825", ,Sat Feb 20 12:40:43 2021,1
+25,Gareth mckevitt,"2,795", ,Sat Feb 20 12:40:43 2021,1
+26,DarkWin44,"2,720", ,Sat Feb 20 12:40:43 2021,1
+27,Fernando Nits,"2,700", ,Sat Feb 20 12:40:43 2021,1
+28,Arne Hong,"2,601", ,Sat Feb 20 12:40:43 2021,1
+29,Bob Goossens 1,"2,501", ,Sat Feb 20 12:40:43 2021,1
+30,Yoni Navon,"2,485", ,Sat Feb 20 12:40:43 2021,1
+31,Philippe Dupont,"2,471", ,Sat Feb 20 12:40:43 2021,1
+32,Luigi Staino,"2,463", ,Sat Feb 20 12:40:43 2021,1
+33,Melly Yannik,"2,400", ,Sat Feb 20 12:40:43 2021,1
+34,Matej Pittermann,"2,357", ,Sat Feb 20 12:40:43 2021,1
+35,Allen Nash,"2,290", ,Sat Feb 20 12:40:43 2021,1
+36,Macke karlsson,"2,280", ,Sat Feb 20 12:40:43 2021,1
+37,Knut Pedersen,"2,194", ,Sat Feb 20 12:40:43 2021,1
+38,Bas Vossen,"2,127", ,Sat Feb 20 12:40:43 2021,1
+39,Norbert Jochymski,"2,110", ,Sat Feb 20 12:40:43 2021,1
+40,Soglo,"2,030", ,Sat Feb 20 12:40:43 2021,1
+41,Dave Dingle,"1,988", ,Sat Feb 20 12:40:43 2021,1
+42,eran abu,"1,930", ,Sat Feb 20 12:40:43 2021,1
+43,William Olsen o,"1,920", ,Sat Feb 20 12:40:43 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 12:40:43 2021,1
+45,Selvig,"1,385", ,Sat Feb 20 12:40:43 2021,1
+46,Phil Swift,"1,331", ,Sat Feb 20 12:40:43 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 12:40:43 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 12:40:43 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 12:40:43 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 12:40:43 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,707", ,Sat Feb 20 12:41:35 2021,1
+2,Patrick Zaglauer,"5,338", ,Sat Feb 20 12:41:35 2021,1
+3,Johan Blake Jr,"5,285", ,Sat Feb 20 12:41:35 2021,1
+4,Bse90,"4,825", ,Sat Feb 20 12:41:35 2021,1
+5,Kai svendsen,"4,635", ,Sat Feb 20 12:41:35 2021,1
+6,Perry Ben,"4,595", ,Sat Feb 20 12:41:35 2021,1
+7,Erik salve Salvesen,"4,165", ,Sat Feb 20 12:41:35 2021,1
+8,Scott Andrew Rogers,"4,150", ,Sat Feb 20 12:41:35 2021,1
+9,Thanasis Lamprinos,"4,115", ,Sat Feb 20 12:41:35 2021,1
+10,Sigg Luggurd,"3,720", ,Sat Feb 20 12:41:35 2021,1
+11,lleveller,"3,702", ,Sat Feb 20 12:41:35 2021,1
+12,Hildy12,"3,615", ,Sat Feb 20 12:41:35 2021,1
+13,Ivica Kiwi,"3,606", ,Sat Feb 20 12:41:35 2021,1
+14,BunnyNorway,"3,540", ,Sat Feb 20 12:41:35 2021,1
+15,Frankie Wilde,"3,365", ,Sat Feb 20 12:41:35 2021,1
+16,Alexboy,"3,360", ,Sat Feb 20 12:41:35 2021,1
+17,Vladimir Kovacevic,"3,320", ,Sat Feb 20 12:41:35 2021,1
+18,Tommy Ryan,"3,216", ,Sat Feb 20 12:41:35 2021,1
+19,Jesse McDermott,"3,165", ,Sat Feb 20 12:41:35 2021,1
+20,Raymond Haukas,"3,143", ,Sat Feb 20 12:41:35 2021,1
+21,Martin Stensen,"3,130", ,Sat Feb 20 12:41:35 2021,1
+22,Fabiano Angelo,"3,120", ,Sat Feb 20 12:41:35 2021,1
+23,Spine,"2,943", ,Sat Feb 20 12:41:35 2021,1
+24,Anneli Madaj,"2,825", ,Sat Feb 20 12:41:35 2021,1
+25,Gareth mckevitt,"2,795", ,Sat Feb 20 12:41:35 2021,1
+26,DarkWin44,"2,720", ,Sat Feb 20 12:41:35 2021,1
+27,Fernando Nits,"2,700", ,Sat Feb 20 12:41:35 2021,1
+28,Arne Hong,"2,601", ,Sat Feb 20 12:41:35 2021,1
+29,Bob Goossens 1,"2,501", ,Sat Feb 20 12:41:35 2021,1
+30,Yoni Navon,"2,485", ,Sat Feb 20 12:41:35 2021,1
+31,Philippe Dupont,"2,471", ,Sat Feb 20 12:41:35 2021,1
+32,Luigi Staino,"2,463", ,Sat Feb 20 12:41:35 2021,1
+33,Melly Yannik,"2,400", ,Sat Feb 20 12:41:35 2021,1
+34,Matej Pittermann,"2,357", ,Sat Feb 20 12:41:35 2021,1
+35,Allen Nash,"2,290", ,Sat Feb 20 12:41:35 2021,1
+36,Macke karlsson,"2,280", ,Sat Feb 20 12:41:35 2021,1
+37,Knut Pedersen,"2,194", ,Sat Feb 20 12:41:35 2021,1
+38,Bas Vossen,"2,127", ,Sat Feb 20 12:41:35 2021,1
+39,Norbert Jochymski,"2,110", ,Sat Feb 20 12:41:35 2021,1
+40,Soglo,"2,030", ,Sat Feb 20 12:41:35 2021,1
+41,Dave Dingle,"1,988", ,Sat Feb 20 12:41:35 2021,1
+42,eran abu,"1,930", ,Sat Feb 20 12:41:35 2021,1
+43,William Olsen o,"1,920", ,Sat Feb 20 12:41:35 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 12:41:35 2021,1
+45,Selvig,"1,385", ,Sat Feb 20 12:41:35 2021,1
+46,Phil Swift,"1,331", ,Sat Feb 20 12:41:35 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 12:41:35 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 12:41:35 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 12:41:35 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 12:41:35 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,707", ,Sat Feb 20 12:46:17 2021,1
+2,Patrick Zaglauer,"5,338", ,Sat Feb 20 12:46:17 2021,1
+3,Johan Blake Jr,"5,285", ,Sat Feb 20 12:46:17 2021,1
+4,Bse90,"4,825", ,Sat Feb 20 12:46:17 2021,1
+5,Perry Ben,"4,655", ,Sat Feb 20 12:46:17 2021,1
+6,Kai svendsen,"4,635", ,Sat Feb 20 12:46:17 2021,1
+7,Erik salve Salvesen,"4,165", ,Sat Feb 20 12:46:17 2021,1
+8,Scott Andrew Rogers,"4,150", ,Sat Feb 20 12:46:17 2021,1
+9,Thanasis Lamprinos,"4,115", ,Sat Feb 20 12:46:17 2021,1
+10,Sigg Luggurd,"3,720", ,Sat Feb 20 12:46:17 2021,1
+11,lleveller,"3,702", ,Sat Feb 20 12:46:17 2021,1
+12,Hildy12,"3,615", ,Sat Feb 20 12:46:17 2021,1
+13,Ivica Kiwi,"3,606", ,Sat Feb 20 12:46:17 2021,1
+14,BunnyNorway,"3,540", ,Sat Feb 20 12:46:17 2021,1
+15,Frankie Wilde,"3,365", ,Sat Feb 20 12:46:17 2021,1
+16,Alexboy,"3,360", ,Sat Feb 20 12:46:17 2021,1
+17,Vladimir Kovacevic,"3,320", ,Sat Feb 20 12:46:17 2021,1
+18,Tommy Ryan,"3,216", ,Sat Feb 20 12:46:17 2021,1
+19,Jesse McDermott,"3,165", ,Sat Feb 20 12:46:17 2021,1
+20,Raymond Haukas,"3,143", ,Sat Feb 20 12:46:17 2021,1
+21,Martin Stensen,"3,130", ,Sat Feb 20 12:46:17 2021,1
+22,Fabiano Angelo,"3,120", ,Sat Feb 20 12:46:17 2021,1
+23,Spine,"2,943", ,Sat Feb 20 12:46:17 2021,1
+24,Anneli Madaj,"2,825", ,Sat Feb 20 12:46:17 2021,1
+25,Gareth mckevitt,"2,795", ,Sat Feb 20 12:46:17 2021,1
+26,DarkWin44,"2,720", ,Sat Feb 20 12:46:17 2021,1
+27,Fernando Nits,"2,700", ,Sat Feb 20 12:46:17 2021,1
+28,Arne Hong,"2,601", ,Sat Feb 20 12:46:17 2021,1
+29,Philippe Dupont,"2,576", ,Sat Feb 20 12:46:17 2021,1
+30,Bob Goossens 1,"2,501", ,Sat Feb 20 12:46:17 2021,1
+31,Yoni Navon,"2,485", ,Sat Feb 20 12:46:17 2021,1
+32,Luigi Staino,"2,463", ,Sat Feb 20 12:46:17 2021,1
+33,Melly Yannik,"2,400", ,Sat Feb 20 12:46:17 2021,1
+34,Matej Pittermann,"2,357", ,Sat Feb 20 12:46:17 2021,1
+35,Allen Nash,"2,290", ,Sat Feb 20 12:46:17 2021,1
+36,Macke karlsson,"2,280", ,Sat Feb 20 12:46:17 2021,1
+37,Knut Pedersen,"2,194", ,Sat Feb 20 12:46:17 2021,1
+38,Bas Vossen,"2,127", ,Sat Feb 20 12:46:17 2021,1
+39,Norbert Jochymski,"2,110", ,Sat Feb 20 12:46:17 2021,1
+40,Soglo,"2,030", ,Sat Feb 20 12:46:17 2021,1
+41,Dave Dingle,"1,988", ,Sat Feb 20 12:46:17 2021,1
+42,eran abu,"1,930", ,Sat Feb 20 12:46:17 2021,1
+43,William Olsen o,"1,920", ,Sat Feb 20 12:46:17 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 12:46:17 2021,1
+45,Selvig,"1,385", ,Sat Feb 20 12:46:17 2021,1
+46,Phil Swift,"1,331", ,Sat Feb 20 12:46:17 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 12:46:17 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 12:46:17 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 12:46:17 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 12:46:17 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,707", ,Sat Feb 20 12:47:05 2021,1
+2,Patrick Zaglauer,"5,338", ,Sat Feb 20 12:47:05 2021,1
+3,Johan Blake Jr,"5,285", ,Sat Feb 20 12:47:05 2021,1
+4,Bse90,"4,825", ,Sat Feb 20 12:47:05 2021,1
+5,Perry Ben,"4,655", ,Sat Feb 20 12:47:05 2021,1
+6,Kai svendsen,"4,635", ,Sat Feb 20 12:47:05 2021,1
+7,Erik salve Salvesen,"4,165", ,Sat Feb 20 12:47:05 2021,1
+8,Scott Andrew Rogers,"4,150", ,Sat Feb 20 12:47:05 2021,1
+9,Thanasis Lamprinos,"4,115", ,Sat Feb 20 12:47:05 2021,1
+10,Sigg Luggurd,"3,720", ,Sat Feb 20 12:47:05 2021,1
+11,lleveller,"3,702", ,Sat Feb 20 12:47:05 2021,1
+12,Hildy12,"3,615", ,Sat Feb 20 12:47:05 2021,1
+13,Ivica Kiwi,"3,606", ,Sat Feb 20 12:47:05 2021,1
+14,BunnyNorway,"3,540", ,Sat Feb 20 12:47:05 2021,1
+15,Frankie Wilde,"3,365", ,Sat Feb 20 12:47:05 2021,1
+16,Alexboy,"3,360", ,Sat Feb 20 12:47:05 2021,1
+17,Vladimir Kovacevic,"3,320", ,Sat Feb 20 12:47:05 2021,1
+18,Tommy Ryan,"3,216", ,Sat Feb 20 12:47:05 2021,1
+19,Jesse McDermott,"3,165", ,Sat Feb 20 12:47:05 2021,1
+20,Raymond Haukas,"3,143", ,Sat Feb 20 12:47:05 2021,1
+21,Martin Stensen,"3,130", ,Sat Feb 20 12:47:05 2021,1
+22,Fabiano Angelo,"3,120", ,Sat Feb 20 12:47:05 2021,1
+23,Spine,"2,943", ,Sat Feb 20 12:47:05 2021,1
+24,Anneli Madaj,"2,825", ,Sat Feb 20 12:47:05 2021,1
+25,Gareth mckevitt,"2,795", ,Sat Feb 20 12:47:05 2021,1
+26,DarkWin44,"2,720", ,Sat Feb 20 12:47:05 2021,1
+27,Fernando Nits,"2,700", ,Sat Feb 20 12:47:05 2021,1
+28,Arne Hong,"2,601", ,Sat Feb 20 12:47:05 2021,1
+29,Philippe Dupont,"2,576", ,Sat Feb 20 12:47:05 2021,1
+30,Bob Goossens 1,"2,501", ,Sat Feb 20 12:47:05 2021,1
+31,Yoni Navon,"2,485", ,Sat Feb 20 12:47:05 2021,1
+32,Luigi Staino,"2,463", ,Sat Feb 20 12:47:05 2021,1
+33,Melly Yannik,"2,400", ,Sat Feb 20 12:47:05 2021,1
+34,Matej Pittermann,"2,357", ,Sat Feb 20 12:47:05 2021,1
+35,Allen Nash,"2,290", ,Sat Feb 20 12:47:05 2021,1
+36,Macke karlsson,"2,280", ,Sat Feb 20 12:47:05 2021,1
+37,Knut Pedersen,"2,194", ,Sat Feb 20 12:47:05 2021,1
+38,Bas Vossen,"2,127", ,Sat Feb 20 12:47:05 2021,1
+39,Norbert Jochymski,"2,110", ,Sat Feb 20 12:47:05 2021,1
+40,Soglo,"2,030", ,Sat Feb 20 12:47:05 2021,1
+41,Dave Dingle,"1,988", ,Sat Feb 20 12:47:05 2021,1
+42,eran abu,"1,930", ,Sat Feb 20 12:47:05 2021,1
+43,William Olsen o,"1,920", ,Sat Feb 20 12:47:05 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 12:47:05 2021,1
+45,Selvig,"1,385", ,Sat Feb 20 12:47:05 2021,1
+46,Phil Swift,"1,331", ,Sat Feb 20 12:47:05 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 12:47:05 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 12:47:05 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 12:47:05 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 12:47:05 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"6,737", ,Sat Feb 20 12:47:49 2021,1
+2,Patrick Zaglauer,"5,338", ,Sat Feb 20 12:47:49 2021,1
+3,Johan Blake Jr,"5,285", ,Sat Feb 20 12:47:49 2021,1
+4,Bse90,"4,825", ,Sat Feb 20 12:47:49 2021,1
+5,Perry Ben,"4,690", ,Sat Feb 20 12:47:49 2021,1
+6,Kai svendsen,"4,635", ,Sat Feb 20 12:47:49 2021,1
+7,Erik salve Salvesen,"4,165", ,Sat Feb 20 12:47:49 2021,1
+8,Scott Andrew Rogers,"4,150", ,Sat Feb 20 12:47:49 2021,1
+9,Thanasis Lamprinos,"4,115", ,Sat Feb 20 12:47:49 2021,1
+10,Sigg Luggurd,"3,720", ,Sat Feb 20 12:47:49 2021,1
+11,lleveller,"3,702", ,Sat Feb 20 12:47:49 2021,1
+12,Hildy12,"3,615", ,Sat Feb 20 12:47:49 2021,1
+13,Ivica Kiwi,"3,606", ,Sat Feb 20 12:47:49 2021,1
+14,BunnyNorway,"3,575", ,Sat Feb 20 12:47:49 2021,1
+15,Frankie Wilde,"3,365", ,Sat Feb 20 12:47:49 2021,1
+16,Alexboy,"3,360", ,Sat Feb 20 12:47:49 2021,1
+17,Vladimir Kovacevic,"3,320", ,Sat Feb 20 12:47:49 2021,1
+18,Tommy Ryan,"3,216", ,Sat Feb 20 12:47:49 2021,1
+19,Jesse McDermott,"3,165", ,Sat Feb 20 12:47:49 2021,1
+20,Raymond Haukas,"3,143", ,Sat Feb 20 12:47:49 2021,1
+21,Martin Stensen,"3,130", ,Sat Feb 20 12:47:49 2021,1
+22,Fabiano Angelo,"3,120", ,Sat Feb 20 12:47:49 2021,1
+23,Spine,"2,943", ,Sat Feb 20 12:47:49 2021,1
+24,Anneli Madaj,"2,825", ,Sat Feb 20 12:47:49 2021,1
+25,Gareth mckevitt,"2,795", ,Sat Feb 20 12:47:49 2021,1
+26,DarkWin44,"2,720", ,Sat Feb 20 12:47:49 2021,1
+27,Fernando Nits,"2,700", ,Sat Feb 20 12:47:49 2021,1
+28,Arne Hong,"2,601", ,Sat Feb 20 12:47:49 2021,1
+29,Philippe Dupont,"2,596", ,Sat Feb 20 12:47:49 2021,1
+30,Bob Goossens 1,"2,501", ,Sat Feb 20 12:47:49 2021,1
+31,Yoni Navon,"2,485", ,Sat Feb 20 12:47:49 2021,1
+32,Luigi Staino,"2,463", ,Sat Feb 20 12:47:49 2021,1
+33,Melly Yannik,"2,400", ,Sat Feb 20 12:47:49 2021,1
+34,Matej Pittermann,"2,357", ,Sat Feb 20 12:47:49 2021,1
+35,Allen Nash,"2,290", ,Sat Feb 20 12:47:49 2021,1
+36,Macke karlsson,"2,280", ,Sat Feb 20 12:47:49 2021,1
+37,Knut Pedersen,"2,194", ,Sat Feb 20 12:47:49 2021,1
+38,Bas Vossen,"2,127", ,Sat Feb 20 12:47:49 2021,1
+39,Norbert Jochymski,"2,110", ,Sat Feb 20 12:47:49 2021,1
+40,Soglo,"2,030", ,Sat Feb 20 12:47:49 2021,1
+41,Dave Dingle,"1,988", ,Sat Feb 20 12:47:49 2021,1
+42,eran abu,"1,930", ,Sat Feb 20 12:47:49 2021,1
+43,William Olsen o,"1,920", ,Sat Feb 20 12:47:49 2021,1
+44,Ozolins,"1,555", ,Sat Feb 20 12:47:49 2021,1
+45,Selvig,"1,385", ,Sat Feb 20 12:47:49 2021,1
+46,Phil Swift,"1,331", ,Sat Feb 20 12:47:49 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 12:47:49 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 12:47:49 2021,1
+49,Lasse Bidtnes,640, ,Sat Feb 20 12:47:49 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 12:47:49 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"7,097", ,Sat Feb 20 13:59:16 2021,1
+2,Patrick Zaglauer,"5,338", ,Sat Feb 20 13:59:16 2021,1
+3,Johan Blake Jr,"5,285", ,Sat Feb 20 13:59:16 2021,1
+4,Bse90,"4,825", ,Sat Feb 20 13:59:16 2021,1
+5,Kai svendsen,"4,750", ,Sat Feb 20 13:59:16 2021,1
+6,Perry Ben,"4,690", ,Sat Feb 20 13:59:16 2021,1
+7,Erik salve Salvesen,"4,315", ,Sat Feb 20 13:59:16 2021,1
+8,Scott Andrew Rogers,"4,150", ,Sat Feb 20 13:59:16 2021,1
+9,Thanasis Lamprinos,"4,115", ,Sat Feb 20 13:59:16 2021,1
+10,Ivica Kiwi,"3,986", ,Sat Feb 20 13:59:16 2021,1
+11,lleveller,"3,978", ,Sat Feb 20 13:59:16 2021,1
+12,Sigg Luggurd,"3,840", ,Sat Feb 20 13:59:16 2021,1
+13,Alexboy,"3,835", ,Sat Feb 20 13:59:16 2021,1
+14,BunnyNorway,"3,725", ,Sat Feb 20 13:59:16 2021,1
+15,Hildy12,"3,615", ,Sat Feb 20 13:59:16 2021,1
+16,Jesse McDermott,"3,455", ,Sat Feb 20 13:59:16 2021,1
+17,Vladimir Kovacevic,"3,430", ,Sat Feb 20 13:59:16 2021,1
+18,Frankie Wilde,"3,365", ,Sat Feb 20 13:59:16 2021,1
+19,Martin Stensen,"3,285", ,Sat Feb 20 13:59:16 2021,1
+20,Tommy Ryan,"3,216", ,Sat Feb 20 13:59:16 2021,1
+21,Raymond Haukas,"3,198", ,Sat Feb 20 13:59:16 2021,1
+22,DarkWin44,"3,175", ,Sat Feb 20 13:59:16 2021,1
+23,Fabiano Angelo,"3,120", ,Sat Feb 20 13:59:16 2021,1
+24,Spine,"2,943", ,Sat Feb 20 13:59:16 2021,1
+25,Anneli Madaj,"2,935", ,Sat Feb 20 13:59:16 2021,1
+26,Gareth mckevitt,"2,795", ,Sat Feb 20 13:59:16 2021,1
+27,Bob Goossens 1,"2,784", ,Sat Feb 20 13:59:16 2021,1
+28,Fernando Nits,"2,750", ,Sat Feb 20 13:59:16 2021,1
+29,Philippe Dupont,"2,651", ,Sat Feb 20 13:59:16 2021,1
+30,Arne Hong,"2,601", ,Sat Feb 20 13:59:16 2021,1
+31,Yoni Navon,"2,485", ,Sat Feb 20 13:59:16 2021,1
+32,Luigi Staino,"2,463", ,Sat Feb 20 13:59:16 2021,1
+33,Melly Yannik,"2,400", ,Sat Feb 20 13:59:16 2021,1
+34,Matej Pittermann,"2,357", ,Sat Feb 20 13:59:16 2021,1
+35,Allen Nash,"2,290", ,Sat Feb 20 13:59:16 2021,1
+36,Macke karlsson,"2,280", ,Sat Feb 20 13:59:16 2021,1
+37,Knut Pedersen,"2,194", ,Sat Feb 20 13:59:16 2021,1
+38,Bas Vossen,"2,127", ,Sat Feb 20 13:59:16 2021,1
+39,Norbert Jochymski,"2,110", ,Sat Feb 20 13:59:16 2021,1
+40,Soglo,"2,065", ,Sat Feb 20 13:59:16 2021,1
+41,Dave Dingle,"1,988", ,Sat Feb 20 13:59:16 2021,1
+42,eran abu,"1,930", ,Sat Feb 20 13:59:16 2021,1
+43,William Olsen o,"1,920", ,Sat Feb 20 13:59:16 2021,1
+44,Phil Swift,"1,566", ,Sat Feb 20 13:59:16 2021,1
+45,Ozolins,"1,555", ,Sat Feb 20 13:59:16 2021,1
+46,Selvig,"1,520", ,Sat Feb 20 13:59:16 2021,1
+47,Fabien 1982,"1,210", ,Sat Feb 20 13:59:16 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 13:59:16 2021,1
+49,Lasse Bidtnes,815, ,Sat Feb 20 13:59:16 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 13:59:16 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"7,097", ,Sat Feb 20 18:07:53 2021,1
+2,Johan Blake Jr,"5,565", ,Sat Feb 20 18:07:53 2021,1
+3,Kai svendsen,"5,489", ,Sat Feb 20 18:07:53 2021,1
+4,Patrick Zaglauer,"5,338", ,Sat Feb 20 18:07:53 2021,1
+5,Bse90,"5,255", ,Sat Feb 20 18:07:53 2021,1
+6,Perry Ben,"5,235", ,Sat Feb 20 18:07:53 2021,1
+7,Hildy12,"5,115", ,Sat Feb 20 18:07:53 2021,1
+8,Erik salve Salvesen,"4,550", ,Sat Feb 20 18:07:53 2021,1
+9,lleveller,"4,343", ,Sat Feb 20 18:07:53 2021,1
+10,Alexboy,"4,320", ,Sat Feb 20 18:07:53 2021,1
+11,Jesse McDermott,"4,285", ,Sat Feb 20 18:07:53 2021,1
+12,Thanasis Lamprinos,"4,265", ,Sat Feb 20 18:07:53 2021,1
+13,Scott Andrew Rogers,"4,150", ,Sat Feb 20 18:07:53 2021,1
+14,BunnyNorway,"4,095", ,Sat Feb 20 18:07:53 2021,1
+15,Ivica Kiwi,"4,086", ,Sat Feb 20 18:07:53 2021,1
+16,Sigg Luggurd,"3,840", ,Sat Feb 20 18:07:53 2021,1
+17,Frankie Wilde,"3,640", ,Sat Feb 20 18:07:53 2021,1
+18,Vladimir Kovacevic,"3,615", ,Sat Feb 20 18:07:53 2021,1
+19,Fabiano Angelo,"3,570", ,Sat Feb 20 18:07:53 2021,1
+20,Arne Hong,"3,351", ,Sat Feb 20 18:07:53 2021,1
+21,Raymond Haukas,"3,320", ,Sat Feb 20 18:07:53 2021,1
+22,Martin Stensen,"3,285", ,Sat Feb 20 18:07:53 2021,1
+23,Tommy Ryan,"3,216", ,Sat Feb 20 18:07:53 2021,1
+24,DarkWin44,"3,175", ,Sat Feb 20 18:07:53 2021,1
+25,Spine,"3,128", ,Sat Feb 20 18:07:53 2021,1
+26,Anneli Madaj,"3,020", ,Sat Feb 20 18:07:53 2021,1
+27,Philippe Dupont,"2,896", ,Sat Feb 20 18:07:53 2021,1
+28,Fernando Nits,"2,825", ,Sat Feb 20 18:07:53 2021,1
+29,Luigi Staino,"2,796", ,Sat Feb 20 18:07:53 2021,1
+30,Gareth mckevitt,"2,795", ,Sat Feb 20 18:07:53 2021,1
+31,Bob Goossens 1,"2,784", ,Sat Feb 20 18:07:53 2021,1
+32,Yoni Navon,"2,725", ,Sat Feb 20 18:07:53 2021,1
+33,Matej Pittermann,"2,582", ,Sat Feb 20 18:07:53 2021,1
+34,Melly Yannik,"2,400", ,Sat Feb 20 18:07:53 2021,1
+35,Norbert Jochymski,"2,315", ,Sat Feb 20 18:07:53 2021,1
+36,Soglo,"2,315", ,Sat Feb 20 18:07:53 2021,1
+37,Bas Vossen,"2,312", ,Sat Feb 20 18:07:53 2021,1
+38,William Olsen o,"2,300", ,Sat Feb 20 18:07:53 2021,1
+39,Allen Nash,"2,290", ,Sat Feb 20 18:07:53 2021,1
+40,Macke karlsson,"2,280", ,Sat Feb 20 18:07:53 2021,1
+41,Knut Pedersen,"2,194", ,Sat Feb 20 18:07:53 2021,1
+42,Dave Dingle,"1,988", ,Sat Feb 20 18:07:53 2021,1
+43,eran abu,"1,930", ,Sat Feb 20 18:07:53 2021,1
+44,Fabien 1982,"1,735", ,Sat Feb 20 18:07:53 2021,1
+45,Phil Swift,"1,566", ,Sat Feb 20 18:07:53 2021,1
+46,Ozolins,"1,555", ,Sat Feb 20 18:07:53 2021,1
+47,Selvig,"1,520", ,Sat Feb 20 18:07:53 2021,1
+48,Valdis Dzirnavnieks,"1,175", ,Sat Feb 20 18:07:53 2021,1
+49,Lasse Bidtnes,815, ,Sat Feb 20 18:07:53 2021,1
+50,Zero Tollerance,367, ,Sat Feb 20 18:07:53 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"7,397", ,Sun Feb 21 01:38:12 2021,1
+2,Perry Ben,"6,190", ,Sun Feb 21 01:38:12 2021,1
+3,Johan Blake Jr,"6,000", ,Sun Feb 21 01:38:12 2021,1
+4,Kai svendsen,"5,815", ,Sun Feb 21 01:38:12 2021,1
+5,Patrick Zaglauer,"5,613", ,Sun Feb 21 01:38:12 2021,1
+6,Bse90,"5,255", ,Sun Feb 21 01:38:12 2021,1
+7,Sigg Luggurd,"5,225", ,Sun Feb 21 01:38:12 2021,1
+8,Hildy12,"5,115", ,Sun Feb 21 01:38:12 2021,1
+9,lleveller,"5,048", ,Sun Feb 21 01:38:12 2021,1
+10,Erik salve Salvesen,"5,015", ,Sun Feb 21 01:38:12 2021,1
+11,Scott Andrew Rogers,"5,010", ,Sun Feb 21 01:38:12 2021,1
+12,Thanasis Lamprinos,"4,910", ,Sun Feb 21 01:38:12 2021,1
+13,Ivica Kiwi,"4,421", ,Sun Feb 21 01:38:12 2021,1
+14,Tommy Ryan,"4,396", ,Sun Feb 21 01:38:12 2021,1
+15,Alexboy,"4,320", ,Sun Feb 21 01:38:12 2021,1
+16,Jesse McDermott,"4,285", ,Sun Feb 21 01:38:12 2021,1
+17,BunnyNorway,"4,205", ,Sun Feb 21 01:38:12 2021,1
+18,Fernando Nits,"4,105", ,Sun Feb 21 01:38:12 2021,1
+19,Raymond Haukas,"4,082", ,Sun Feb 21 01:38:12 2021,1
+20,Frankie Wilde,"3,840", ,Sun Feb 21 01:38:12 2021,1
+21,Vladimir Kovacevic,"3,690", ,Sun Feb 21 01:38:12 2021,1
+22,Yoni Navon,"3,630", ,Sun Feb 21 01:38:12 2021,1
+23,DarkWin44,"3,590", ,Sun Feb 21 01:38:12 2021,1
+24,Fabiano Angelo,"3,570", ,Sun Feb 21 01:38:12 2021,1
+25,Martin Stensen,"3,480", ,Sun Feb 21 01:38:12 2021,1
+26,Anneli Madaj,"3,375", ,Sun Feb 21 01:38:12 2021,1
+27,Matej Pittermann,"3,367", ,Sun Feb 21 01:38:12 2021,1
+28,Arne Hong,"3,351", ,Sun Feb 21 01:38:12 2021,1
+29,Spine,"3,228", ,Sun Feb 21 01:38:12 2021,1
+30,Norbert Jochymski,"3,175", ,Sun Feb 21 01:38:12 2021,1
+31,Philippe Dupont,"3,171", ,Sun Feb 21 01:38:12 2021,1
+32,Bob Goossens 1,"3,121", ,Sun Feb 21 01:38:12 2021,1
+33,Luigi Staino,"3,106", ,Sun Feb 21 01:38:12 2021,1
+34,William Olsen o,"2,865", ,Sun Feb 21 01:38:12 2021,1
+35,Allen Nash,"2,815", ,Sun Feb 21 01:38:12 2021,1
+36,Gareth mckevitt,"2,795", ,Sun Feb 21 01:38:12 2021,1
+37,Melly Yannik,"2,725", ,Sun Feb 21 01:38:12 2021,1
+38,Knut Pedersen,"2,721", ,Sun Feb 21 01:38:12 2021,1
+39,Macke karlsson,"2,718", ,Sun Feb 21 01:38:12 2021,1
+40,Dave Dingle,"2,623", ,Sun Feb 21 01:38:12 2021,1
+41,Soglo,"2,500", ,Sun Feb 21 01:38:12 2021,1
+42,Bas Vossen,"2,478", ,Sun Feb 21 01:38:12 2021,1
+43,Fabien 1982,"2,397", ,Sun Feb 21 01:38:12 2021,1
+44,eran abu,"2,100", ,Sun Feb 21 01:38:12 2021,1
+45,Phil Swift,"1,966", ,Sun Feb 21 01:38:12 2021,1
+46,Ozolins,"1,905", ,Sun Feb 21 01:38:12 2021,1
+47,Selvig,"1,715", ,Sun Feb 21 01:38:12 2021,1
+48,Valdis Dzirnavnieks,"1,335", ,Sun Feb 21 01:38:12 2021,1
+49,Lasse Bidtnes,815, ,Sun Feb 21 01:38:12 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"8,982", ,Sun Feb 21 12:22:20 2021,1
+2,Perry Ben,"7,050", ,Sun Feb 21 12:22:20 2021,1
+3,Kai svendsen,"6,651", ,Sun Feb 21 12:22:20 2021,1
+4,Johan Blake Jr,"6,230", ,Sun Feb 21 12:22:20 2021,1
+5,Patrick Zaglauer,"6,054", ,Sun Feb 21 12:22:20 2021,1
+6,Bse90,"6,030", ,Sun Feb 21 12:22:20 2021,1
+7,Sigg Luggurd,"5,767", ,Sun Feb 21 12:22:20 2021,1
+8,Thanasis Lamprinos,"5,735", ,Sun Feb 21 12:22:20 2021,1
+9,Scott Andrew Rogers,"5,485", ,Sun Feb 21 12:22:20 2021,1
+10,lleveller,"5,233", ,Sun Feb 21 12:22:20 2021,1
+11,Erik salve Salvesen,"5,185", ,Sun Feb 21 12:22:20 2021,1
+12,Hildy12,"5,115", ,Sun Feb 21 12:22:20 2021,1
+13,Ivica Kiwi,"4,786", ,Sun Feb 21 12:22:20 2021,1
+14,Raymond Haukas,"4,565", ,Sun Feb 21 12:22:20 2021,1
+15,Fernando Nits,"4,560", ,Sun Feb 21 12:22:20 2021,1
+16,Tommy Ryan,"4,511", ,Sun Feb 21 12:22:20 2021,1
+17,Alexboy,"4,485", ,Sun Feb 21 12:22:20 2021,1
+18,BunnyNorway,"4,335", ,Sun Feb 21 12:22:20 2021,1
+19,Jesse McDermott,"4,285", ,Sun Feb 21 12:22:20 2021,1
+20,Spine,"3,941", ,Sun Feb 21 12:22:20 2021,1
+21,Frankie Wilde,"3,840", ,Sun Feb 21 12:22:20 2021,1
+22,Yoni Navon,"3,830", ,Sun Feb 21 12:22:20 2021,1
+23,DarkWin44,"3,815", ,Sun Feb 21 12:22:20 2021,1
+24,Arne Hong,"3,776", ,Sun Feb 21 12:22:20 2021,1
+25,Norbert Jochymski,"3,700", ,Sun Feb 21 12:22:20 2021,1
+26,Vladimir Kovacevic,"3,690", ,Sun Feb 21 12:22:20 2021,1
+27,Anneli Madaj,"3,655", ,Sun Feb 21 12:22:20 2021,1
+28,Fabiano Angelo,"3,570", ,Sun Feb 21 12:22:20 2021,1
+29,Matej Pittermann,"3,532", ,Sun Feb 21 12:22:20 2021,1
+30,Martin Stensen,"3,505", ,Sun Feb 21 12:22:20 2021,1
+31,Allen Nash,"3,435", ,Sun Feb 21 12:22:20 2021,1
+32,Philippe Dupont,"3,266", ,Sun Feb 21 12:22:20 2021,1
+33,Luigi Staino,"3,196", ,Sun Feb 21 12:22:20 2021,1
+34,Bob Goossens 1,"3,126", ,Sun Feb 21 12:22:20 2021,1
+35,Gareth mckevitt,"3,100", ,Sun Feb 21 12:22:20 2021,1
+36,Melly Yannik,"3,005", ,Sun Feb 21 12:22:20 2021,1
+37,Knut Pedersen,"2,953", ,Sun Feb 21 12:22:20 2021,1
+38,William Olsen o,"2,865", ,Sun Feb 21 12:22:20 2021,1
+39,Soglo,"2,820", ,Sun Feb 21 12:22:20 2021,1
+40,Macke karlsson,"2,718", ,Sun Feb 21 12:22:20 2021,1
+41,Dave Dingle,"2,699", ,Sun Feb 21 12:22:20 2021,1
+42,Fabien 1982,"2,662", ,Sun Feb 21 12:22:20 2021,1
+43,eran abu,"2,635", ,Sun Feb 21 12:22:20 2021,1
+44,Phil Swift,"2,606", ,Sun Feb 21 12:22:20 2021,1
+45,Bas Vossen,"2,538", ,Sun Feb 21 12:22:20 2021,1
+46,Lasse Bidtnes,"2,530", ,Sun Feb 21 12:22:20 2021,1
+47,Ozolins,"2,385", ,Sun Feb 21 12:22:20 2021,1
+48,Valdis Dzirnavnieks,"2,275", ,Sun Feb 21 12:22:20 2021,1
+49,Selvig,"2,105", ,Sun Feb 21 12:22:20 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"9,372", ,Sun Feb 21 13:58:39 2021,1
+2,Perry Ben,"7,530", ,Sun Feb 21 13:58:39 2021,1
+3,Kai svendsen,"6,689", ,Sun Feb 21 13:58:39 2021,1
+4,Patrick Zaglauer,"6,509", ,Sun Feb 21 13:58:39 2021,1
+5,Johan Blake Jr,"6,230", ,Sun Feb 21 13:58:39 2021,1
+6,Bse90,"6,030", ,Sun Feb 21 13:58:39 2021,1
+7,Thanasis Lamprinos,"5,800", ,Sun Feb 21 13:58:39 2021,1
+8,Sigg Luggurd,"5,767", ,Sun Feb 21 13:58:39 2021,1
+9,Scott Andrew Rogers,"5,485", ,Sun Feb 21 13:58:39 2021,1
+10,lleveller,"5,233", ,Sun Feb 21 13:58:39 2021,1
+11,Erik salve Salvesen,"5,185", ,Sun Feb 21 13:58:39 2021,1
+12,Hildy12,"5,115", ,Sun Feb 21 13:58:39 2021,1
+13,Ivica Kiwi,"4,786", ,Sun Feb 21 13:58:39 2021,1
+14,Raymond Haukas,"4,565", ,Sun Feb 21 13:58:39 2021,1
+15,Fernando Nits,"4,560", ,Sun Feb 21 13:58:39 2021,1
+16,Tommy Ryan,"4,546", ,Sun Feb 21 13:58:39 2021,1
+17,Alexboy,"4,485", ,Sun Feb 21 13:58:39 2021,1
+18,Jesse McDermott,"4,365", ,Sun Feb 21 13:58:39 2021,1
+19,BunnyNorway,"4,335", ,Sun Feb 21 13:58:39 2021,1
+20,Frankie Wilde,"4,070", ,Sun Feb 21 13:58:39 2021,1
+21,Norbert Jochymski,"3,995", ,Sun Feb 21 13:58:39 2021,1
+22,Spine,"3,983", ,Sun Feb 21 13:58:39 2021,1
+23,Yoni Navon,"3,830", ,Sun Feb 21 13:58:39 2021,1
+24,DarkWin44,"3,815", ,Sun Feb 21 13:58:39 2021,1
+25,Matej Pittermann,"3,782", ,Sun Feb 21 13:58:39 2021,1
+26,Arne Hong,"3,776", ,Sun Feb 21 13:58:39 2021,1
+27,Vladimir Kovacevic,"3,690", ,Sun Feb 21 13:58:39 2021,1
+28,Anneli Madaj,"3,655", ,Sun Feb 21 13:58:39 2021,1
+29,Fabiano Angelo,"3,570", ,Sun Feb 21 13:58:39 2021,1
+30,Martin Stensen,"3,505", ,Sun Feb 21 13:58:39 2021,1
+31,Allen Nash,"3,435", ,Sun Feb 21 13:58:39 2021,1
+32,Luigi Staino,"3,336", ,Sun Feb 21 13:58:39 2021,1
+33,Philippe Dupont,"3,266", ,Sun Feb 21 13:58:39 2021,1
+34,Bob Goossens 1,"3,133", ,Sun Feb 21 13:58:39 2021,1
+35,Gareth mckevitt,"3,100", ,Sun Feb 21 13:58:39 2021,1
+36,Melly Yannik,"3,005", ,Sun Feb 21 13:58:39 2021,1
+37,Macke karlsson,"2,959", ,Sun Feb 21 13:58:39 2021,1
+38,Knut Pedersen,"2,953", ,Sun Feb 21 13:58:39 2021,1
+39,Selvig,"2,915", ,Sun Feb 21 13:58:39 2021,1
+40,William Olsen o,"2,865", ,Sun Feb 21 13:58:39 2021,1
+41,Soglo,"2,820", ,Sun Feb 21 13:58:39 2021,1
+42,Dave Dingle,"2,699", ,Sun Feb 21 13:58:39 2021,1
+43,Fabien 1982,"2,662", ,Sun Feb 21 13:58:39 2021,1
+44,eran abu,"2,635", ,Sun Feb 21 13:58:39 2021,1
+45,Phil Swift,"2,606", ,Sun Feb 21 13:58:39 2021,1
+46,Bas Vossen,"2,578", ,Sun Feb 21 13:58:39 2021,1
+47,Lasse Bidtnes,"2,530", ,Sun Feb 21 13:58:39 2021,1
+48,Ozolins,"2,525", ,Sun Feb 21 13:58:39 2021,1
+49,Valdis Dzirnavnieks,"2,505", ,Sun Feb 21 13:58:39 2021,1
+placement,name,points, ,date,season
+1,Geoff Aitken,"9,372", ,Sun Feb 21 13:59:17 2021,1
+2,Perry Ben,"7,530", ,Sun Feb 21 13:59:17 2021,1
+3,Kai svendsen,"6,689", ,Sun Feb 21 13:59:17 2021,1
+4,Patrick Zaglauer,"6,509", ,Sun Feb 21 13:59:17 2021,1
+5,Johan Blake Jr,"6,230", ,Sun Feb 21 13:59:17 2021,1
+6,Bse90,"6,030", ,Sun Feb 21 13:59:17 2021,1
+7,Thanasis Lamprinos,"5,800", ,Sun Feb 21 13:59:17 2021,1
+8,Sigg Luggurd,"5,767", ,Sun Feb 21 13:59:17 2021,1
+9,Scott Andrew Rogers,"5,485", ,Sun Feb 21 13:59:17 2021,1
+10,lleveller,"5,233", ,Sun Feb 21 13:59:17 2021,1
+11,Erik salve Salvesen,"5,185", ,Sun Feb 21 13:59:17 2021,1
+12,Hildy12,"5,115", ,Sun Feb 21 13:59:17 2021,1
+13,Ivica Kiwi,"4,786", ,Sun Feb 21 13:59:17 2021,1
+14,Raymond Haukas,"4,565", ,Sun Feb 21 13:59:17 2021,1
+15,Fernando Nits,"4,560", ,Sun Feb 21 13:59:17 2021,1
+16,Tommy Ryan,"4,546", ,Sun Feb 21 13:59:17 2021,1
+17,Alexboy,"4,485", ,Sun Feb 21 13:59:17 2021,1
+18,Jesse McDermott,"4,365", ,Sun Feb 21 13:59:17 2021,1
+19,BunnyNorway,"4,335", ,Sun Feb 21 13:59:17 2021,1
+20,Frankie Wilde,"4,070", ,Sun Feb 21 13:59:17 2021,1
+21,Norbert Jochymski,"3,995", ,Sun Feb 21 13:59:17 2021,1
+22,Spine,"3,985", ,Sun Feb 21 13:59:17 2021,1
+23,Yoni Navon,"3,830", ,Sun Feb 21 13:59:17 2021,1
+24,DarkWin44,"3,815", ,Sun Feb 21 13:59:17 2021,1
+25,Matej Pittermann,"3,782", ,Sun Feb 21 13:59:17 2021,1
+26,Arne Hong,"3,776", ,Sun Feb 21 13:59:17 2021,1
+27,Vladimir Kovacevic,"3,690", ,Sun Feb 21 13:59:17 2021,1
+28,Anneli Madaj,"3,655", ,Sun Feb 21 13:59:17 2021,1
+29,Fabiano Angelo,"3,570", ,Sun Feb 21 13:59:17 2021,1
+30,Martin Stensen,"3,505", ,Sun Feb 21 13:59:17 2021,1
+31,Allen Nash,"3,435", ,Sun Feb 21 13:59:17 2021,1
+32,Luigi Staino,"3,336", ,Sun Feb 21 13:59:17 2021,1
+33,Philippe Dupont,"3,266", ,Sun Feb 21 13:59:17 2021,1
+34,Bob Goossens 1,"3,133", ,Sun Feb 21 13:59:17 2021,1
+35,Gareth mckevitt,"3,100", ,Sun Feb 21 13:59:17 2021,1
+36,Melly Yannik,"3,005", ,Sun Feb 21 13:59:17 2021,1
+37,Macke karlsson,"2,959", ,Sun Feb 21 13:59:17 2021,1
+38,Knut Pedersen,"2,953", ,Sun Feb 21 13:59:17 2021,1
+39,Selvig,"2,915", ,Sun Feb 21 13:59:17 2021,1
+40,William Olsen o,"2,865", ,Sun Feb 21 13:59:17 2021,1
+41,Soglo,"2,820", ,Sun Feb 21 13:59:17 2021,1
+42,Dave Dingle,"2,699", ,Sun Feb 21 13:59:17 2021,1
+43,Fabien 1982,"2,662", ,Sun Feb 21 13:59:17 2021,1
+44,eran abu,"2,635", ,Sun Feb 21 13:59:17 2021,1
+45,Phil Swift,"2,606", ,Sun Feb 21 13:59:17 2021,1
+46,Bas Vossen,"2,578", ,Sun Feb 21 13:59:17 2021,1
+47,Lasse Bidtnes,"2,530", ,Sun Feb 21 13:59:17 2021,1
+48,Ozolins,"2,525", ,Sun Feb 21 13:59:17 2021,1
+49,Valdis Dzirnavnieks,"2,505", ,Sun Feb 21 13:59:17 2021,1
