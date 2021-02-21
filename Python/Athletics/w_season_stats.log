@@ -1,0 +1,3 @@
+INFO - root - Logging in to Athletics Mania
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[1]/div[2]/div[2]
+WARNING - root - Timed out while trying to click the button with xpath //*[@id="m-ui"]/div/div[4]/div[1]/div[2]/div[2]

@@ -18,6 +18,8 @@ password = "qweasd113"
 sender_email = "arctic1878.programming@gmail.com"
 receiver_email = "martin.stensen92@gmail.com"
 minimum_requirement = 2500
+scores_fname = "scores.csv"
+end_scores_fname = "end_scores.csv"
 
 # Create a secure SSL context
 context = ssl.create_default_context()
@@ -96,13 +98,12 @@ def calculate_scores(driver):
 
         print(f'{name}: {score}')
 
-    filename = 'scores.csv'
-    write_scores_to_file(filename, player_scores)
+    write_scores_to_file(player_scores)
 
     send_scores_as_mail(player_scores)
 
 
-def write_scores_to_file(filename, player_scores):
+def write_scores_to_file(player_scores):
 
     # Check if file exists
     # If the file exists, read last entry for new season calc
@@ -116,16 +117,17 @@ def write_scores_to_file(filename, player_scores):
     previous_total_score = 0
     current_time = time.ctime(time.time())
     idx_points, idx_date, idx_season = 2, 4, 5
+    score_path = f'./{scores_fname}'
 
     # Reading all existing entries in points.csv to the list "all_entries"
-    if os.path.isfile("./scores.csv"):
-        with open('scores.csv', 'r', newline='') as csvfile:
+    if os.path.isfile(score_path):
+        with open(scores_fname, 'r', newline='') as csvfile:
             reader = csv.reader(csvfile)
             for row in reader:
                 all_entries.append(row)
     else:
-        with open('scores.csv', 'w'):
-            print("Creating new file: 'scores.csv'")
+        with open(scores_fname, 'w'):
+            print(f'Creating new file: {scores_fname}')
             pass
 
     # Calculate season
@@ -151,7 +153,7 @@ def write_scores_to_file(filename, player_scores):
 
         logging.info(f'Current total: {current_total_score}, Season {current_season}')
 
-    with open('scores.csv', 'a', newline='') as csvfile:
+    with open(scores_fname, 'a', newline='') as csvfile:
         fieldnames = ['placement', 'name', 'points', ' ', 'date', 'season']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
@@ -160,11 +162,6 @@ def write_scores_to_file(filename, player_scores):
             writer.writerow({'placement': placement, 'name': unidecode.unidecode(key),
                              'points': player_scores[key], ' ': ' ', 'date': current_time, 'season': current_season})
             placement += 1
-
-    # print("all_entries:")
-    # for entry in all_entries:
-    #     print(entry[0])
-    #     print(entry[1])
 
 
 def send_scores_as_mail(player_scores):
