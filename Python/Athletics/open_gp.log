@@ -1,6 +1,6 @@
 INFO - root - Logging in to Athletics Mania
 INFO - root - Navigating to the GP page
-INFO - root - Number of basic GPs: 9
+INFO - root - Number of basic GPs: 8
 INFO - root - Opening the 0th basic reward
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[1]/div[6]/div[1]/div
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
@@ -105,20 +105,7 @@ INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[
 INFO - root - Clicked cone four
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
 INFO - root - Picking up rewards later
-INFO - root - Opening the 8th basic reward
-INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[1]/div[6]/div[1]/div
-INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
-INFO - root - Clicked cone one
-INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
-INFO - root - Clicked cone two
-INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
-INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
-INFO - root - Clicked cone three
-INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
-INFO - root - Clicked cone four
-INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
-INFO - root - Picking up rewards later
-INFO - root - Number of bronze GPs: 3
+INFO - root - Number of bronze GPs: 12
 INFO - root - Opening the 0th bronze reward
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[2]/div[6]/div[1]/div
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
@@ -158,7 +145,124 @@ INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[
 INFO - root - Clicked cone four
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
 INFO - root - Picking up rewards later
-INFO - root - Number of silver GPs: 4
+INFO - root - Opening the 3th bronze reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[2]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 4th bronze reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[2]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 5th bronze reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[2]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 6th bronze reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[2]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 7th bronze reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[2]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 8th bronze reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[2]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 9th bronze reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[2]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 10th bronze reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[2]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 11th bronze reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[2]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Number of silver GPs: 11
 INFO - root - Opening the 0th silver reward
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[3]/div[6]/div[1]/div
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
@@ -199,6 +303,97 @@ INFO - root - Clicked cone four
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
 INFO - root - Picking up rewards later
 INFO - root - Opening the 3th silver reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[3]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 4th silver reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[3]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 5th silver reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[3]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 6th silver reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[3]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 7th silver reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[3]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 8th silver reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[3]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 9th silver reward
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[3]/div[6]/div[1]/div
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
+INFO - root - Clicked cone one
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[2]
+INFO - root - Clicked cone two
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[8]/div[1]/div[2]/div[1]
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[3]
+INFO - root - Clicked cone three
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[4]
+INFO - root - Clicked cone four
+INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[9]/div[3]/div[1]
+INFO - root - Picking up rewards later
+INFO - root - Opening the 10th silver reward
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[5]/div[2]/div[3]/div[6]/div[1]/div
 INFO - root - Clicking button with xpath: //*[@id="m-ui"]/div/div[4]/div[7]/div[1]
 INFO - root - Clicked cone one
